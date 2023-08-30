@@ -1,0 +1,10 @@
+Executable : C:\Users\ASUS\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\.cxx\cmake\standardRelease\armeabi-v7a
+jpeg
+leptonica
+png
+tesseract
+jvmArgs : 
+

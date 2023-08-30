@@ -1,0 +1,14 @@
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libjpeg/CMakeFiles/jpeg.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libjpeg/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libjpeg/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libpng/CMakeFiles/png.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libpng/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/libpng/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/leptonica/CMakeFiles/leptonica.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/leptonica/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/leptonica/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/tesseract/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/tesseract/CMakeFiles/tesseract.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/armeabi-v7a/tesseract/CMakeFiles/edit_cache.dir

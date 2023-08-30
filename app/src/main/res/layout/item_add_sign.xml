@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cardElevation="20dp"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:focusable="true">
+    <RelativeLayout
+        android:id="@+id/root_layout"
+        android:foreground="?android:attr/selectableItemBackgroundBorderless"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:clipChildren="false">
+
+        <ImageButton
+            android:src="@drawable/ic_baseline_add_24"
+            android:clickable="false"
+            android:focusable="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:tint="@color/color_control_txt"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="5dp">
+
+            <TextView
+                android:id="@+id/noteName_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Add New"
+                android:textColor="@color/color_control_txt"
+                android:textSize="13sp"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

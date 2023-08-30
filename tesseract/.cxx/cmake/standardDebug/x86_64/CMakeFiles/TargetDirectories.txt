@@ -1,0 +1,14 @@
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libjpeg/CMakeFiles/jpeg.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libjpeg/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libjpeg/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libpng/CMakeFiles/png.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libpng/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libpng/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/leptonica/CMakeFiles/leptonica.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/leptonica/CMakeFiles/edit_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/leptonica/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/tesseract/CMakeFiles/rebuild_cache.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/tesseract/CMakeFiles/tesseract.dir
+E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/tesseract/CMakeFiles/edit_cache.dir

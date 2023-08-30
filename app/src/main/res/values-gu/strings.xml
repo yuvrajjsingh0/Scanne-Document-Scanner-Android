@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">લાગુ કરો</string>
+
+    <string name="lbl_cancel">રદ કરો</string>
+    <string name="lbl_delete">કાઢી નાખો</string>
+    <string name="lbl_left">ડાબે</string>
+    <string name = "lbl_right">જમણે</string>
+    <string name = "lbl_crop"> કાપો</string>
+    <string name="lbl_camera_unavailable">કૅમેરો ઉપલબ્ધ નથી (ઉપયોગમાં છે અથવા અસ્તિત્વમાં નથી).\nકૃપા કરીને કૅમેરાનો ઉપયોગ કરી શકે તેવી ઍપ બંધ કરો.</string>
+    <string name="lbl_zoom_ratio_value">ઝૂમ: %1.2fx</string>
+    <string name="lbl_open_photo_preview">શોટ કર્યા પછી પૂર્વાવલોકન ફોટો ખોલો</string>
+    <string name="lbl_settings">સેટિંગ્સ</string>
+    <string name = "lbl_hdr">HDR</string>
+    <string name="lbl_close">બંધ કરો</string>
+    <string name="lbl_focus_mode">ફોકસ મોડ</string>
+    <string name = "lbl_ratio"> ગુણોત્તર</string>
+    <string name = "lbl_quality">ગુણવત્તા</string>
+    <string name = "lbl_take_another">બીજું લો</string>
+    <string name="lbl_photo_crop">ફોટો કાપો</string>
+    <string name="lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">મૂળ</string>
+    <string name = "magic_color"> જાદુઈ રંગ</string>
+    <string name = "gray_mode">ગ્રે મોડ</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name = "single_mode">સિંગલ મોડ</string>
+    <string name = "batch_mode">બેચ મોડ</string>
+    <string name="hello_blank_fragment">હેલો ખાલી ટુકડો</string>
+
+    <string name="import_from_gallery">ગેલેરીમાંથી આયાત કરો</string>
+    <string name="rate_us">અમને રેટ કરો</string>
+    <string name="enter_name">નામ દાખલ કરો…</string>
+    <string name="generate_pdf">PDF જનરેટ કરો</string>
+    <string name="share_pdf">PDF શેર કરો</string>
+    <string name="share_pdf_ocr">PDF (OCR) શેર કરો</string>
+    <string name="share_images">છબીઓ શેર કરો</string>
+    <string name="love_our_document_scanner">આ દસ્તાવેજ સ્કેનર ગમે છે?</string>
+
+    <string name="upgrade_pro_message">તમારી જાતને PRO પર અપગ્રેડ કરવાનું વિચારો</string>
+
+    <string name = "lifetime">આજીવન</string>
+    <string name="yearly">વાર્ષિક</string>
+    <string name="monthly">માસિક</string>
+    <string name="downloading">ડાઉનલોડ કરી રહ્યું છે…</string>
+
+    <!-- ટેસેરેક્ટ -->
+    <string name="downloading_language">ભાષા ડેટા ડાઉનલોડ કરી રહ્યું છે…</string>
+    <string name="percentage_downloaded">કુલનો %:</string>
+    <string name="you_are_not_connected_to_internet">તમે ઇન્ટરનેટથી કનેક્ટેડ નથી</string>
+    <string name="yes">હા</string>
+    <string name="no">ના</string>
+    <string name="download_description">OCR કાર્યક્ષમતાના યોગ્ય કાર્ય માટે, તમારા ઉપકરણ પર કેટલાક વધારાના ડેટા ડાઉનલોડ કરવાની જરૂર છે.\nશું તમે પસંદ કરેલ ભાષા(%s) ડેટા ડાઉનલોડ કરવા માંગો છો? તમે એપ્લિકેશન સેટિંગ્સ</string>માંથી વધુ ભાષાઓ ડાઉનલોડ કરી શકો છો
+    <string name="training_data_missing">ભાષા ડેટા ખૂટે છે!</string>
+    <string name="select_language">ભાષા પસંદ કરો</string>
+    <string name = "create_new">નવું બનાવો</string>
+    <string name="documents_list_empty">તમારી દસ્તાવેજોની યાદી ખાલી છે</string>
+    <string name="no_notes_exists">કોઈ નોંધ અસ્તિત્વમાં નથી!</string>
+    <string name="backup_now">હવે બેકઅપ લો</string>
+    <string name="restore_backup">બેકઅપ પુનઃસ્થાપિત કરો</string>
+    <string name="backup_message_sync">તમારા સ્કેન કરેલા દસ્તાવેજોનો સીમલેસ સિંક્રનાઇઝેશન સાથે Google ડ્રાઇવ પર સરળતાથી બેકઅપ લો</string>
+    <string name="back">પાછળ</string>
+    <string name = "ocr">OCR</string>
+    <string name="image">છબી</string>
+    <string name="select_from_gallery">ગેલેરીમાંથી પસંદ કરો</string>
+    <string name = "open_camera">કેમેરો ખોલો</string>
+    <string name="start_sync">સમન્વયન શરૂ કરો</string>
+    <string name="document_1">દસ્તાવેજ 1</string>
+    <string name="rate_us_txt">અમને રેટ કરવાનું ભૂલશો નહીં.</string>
+
+    <string name="rate_us_desc">રેટ કરવા માટે હા દબાવો અથવા બહાર નીકળવા માટે ના દબાવો</string>
+    <string name="pro_member_message">તમે પ્રો સભ્ય છો!</string>
+    <string name = "req_cam_access_message">સ્કેનને કેમેરાની ઍક્સેસની જરૂર છે</string>
+    <string name="req_storage_access_message">સ્કેનને સ્ટોરેજની ઍક્સેસની જરૂર છે</string>
+    <string name = "req_media_access_message">સ્કેનને મીડિયાની ઍક્સેસની જરૂર છે</string>
+    <string name = "req_storage_cam_access_message"> સ્કેનને કામ કરવા માટે સ્ટોરેજ અને કૅમેરાની પરવાનગીની જરૂર છે</string>
+    <string name="watch_ads_message">આગળ વધવા માટે તમારે વિડિયો જાહેરાત જોવાની જરૂર છે</string>
+
+    <string name = "premium_feature">પ્રીમિયમ લક્ષણ</string>
+    <string name="upgrade_pro_prompt">કૃપા કરીને PRO પર અપગ્રેડ કરો</string>
+    <string name = "please_wait">કૃપા કરીને રાહ જુઓ…</string>
+    <string name="created_success_accuracy">સચોટતા સાથે સફળતાપૂર્વક બનાવ્યું: %s</string>
+    <string name="error_occurred">એક ભૂલ આવી</string>
+    <string name="already_logged_message">પહેલેથી જ %s તરીકે લૉગ ઇન કરેલ છે</string>
+    <string name="scan_count">સ્કેન %s</string>
+    <string name="docs_count">%s દસ્તાવેજો</string>
+    <string name="delete_alert_title">દસ્તાવેજ કાઢી નાખો</string>
+    <string name="delete_alert_message">શું તમે ખરેખર કાઢી નાખવા માંગો છો?</string>
+    <string name="rename_doc">દસ્તાવેજનું નામ બદલો</string>
+
+    <string name="enter_valid_name">કૃપા કરીને માન્ય નામ દાખલ કરો</string>
+    <string name="starting_sync">સિંક્રોનાઇઝેશન શરૂ કરી રહ્યું છે</string>
+    <string name="error">ભૂલ</string>
+    <string name="sync_error">Google ડ્રાઇવ સાથે ફાઇલોને સિંક્રનાઇઝ કરતી વખતે ભૂલ આવી છે</string>
+    <string name="success">સફળતા</string>
+    <string name="sync_success">Google ડ્રાઇવ સાથે ફાઇલોનું સિંક્રનાઇઝેશન સફળ રહ્યું</string>
+    <string name = "fetching_data">સર્વરમાંથી ડેટા લાવવું</string>
+    <string name="share_notes">નોંધો શેર કરો…</string>
+
+    <string name="downloading_lang">ભાષાઓ ડાઉનલોડ કરી રહી છે</string>
+
+    <string name = "total_lang_d_ct"> કુલ %s ભાષાઓ</string>
+    <string name="download_failed">ડાઉનલોડ નિષ્ફળ</string>
+    <string name = "download_failed_lang"> આપેલ ભાષા ડાઉનલોડ કરવામાં નિષ્ફળ: %s</string>
+    <string name="downloaded_num_lang">ડાઉનલોડ કરેલ %s ભાષાઓ</string>
+    <string name="downloading_n">%s ડાઉનલોડ કરી રહ્યું છે</string>
+    <string name="creating_pdf">તમારા માટે એક સુંદર PDF રાંધવા</string>
+
+    <string name="logged_out_message">તમે લૉગ આઉટ થઈ ગયા છો</string>
+    <string name="lang_downloaded">ભાષાઓ સફળતાપૂર્વક ડાઉનલોડ થઈ</string>
+    <string name="languages">ભાષાઓ</string>
+    <string name = "get_langs">વધુ ભાષાઓ મેળવો</string>
+    <string name="look_n_feel">લુક એન્ડ ફીલ</string>
+    <string name = "theme"> થીમ</string>
+    <string name="theme_desc">ડાર્ક અને લાઇટ મોડ વચ્ચે સ્વિચ કરો</string>
+    <string name="more">વધુ</string>
+    <string name = "about_us"> અમારા વિશે</string>
+    <string name="about_us_desc">અમારા વિશે વધુ જાણો</string>
+    <string name="contact_us">અમારો સંપર્ક કરો</string>
+    <string name="contact_us_desc">કોઈપણ ચુકવણી અથવા રિફંડ સંબંધિત પ્રશ્નો માટે અમારો સંપર્ક કરો</string>
+    <string name="leave_feedback">એક પ્રતિસાદ આપો</string>
+    <string name="leave_feedback_desc">તકનીકી સમસ્યાઓની જાણ કરો અથવા નવી સુવિધાઓ સૂચવો</string>
+    <string name = "rotation"> પરિભ્રમણ</string>
+    <string name="opacity">અપારદર્શકતા</string>
+    <string name = "brush">બ્રશ</string>
+    <string name = "label_brush">બ્રશ</string>
+
+    <string name="label_emoji">ઇમોજી</string>
+    <string name="label_sticker">સ્ટીકર</string>
+    <string name="label_eraser">ઇરેઝર</string>
+    <string name="label_eraser_mode">ઇરેઝર મોડ</string>
+    <string name="label_text">ટેક્સ્ટ</string>
+    <string name="label_filter">ફિલ્ટર</string>
+    <string name="label_adjust">વ્યવસ્થિત કરો</string>
+    <string name="msg_save_image">છબી સાચવ્યા વિના બહાર નીકળો?</string>
+    <string name="msg_save_image_to_share">કૃપા કરીને શેર કરવા માટે છબી સાચવો</string>
+    <string name="msg_share_image">છબી શેર કરો</string>
+    <string name="save">સાચવો</string>
+
+    <string name="dontsave">સાચવો નહીં</string>
+    <string name="no_signature_msg">તમારી પાસે કોઈ સહીઓ નથી. એક ઉમેરવા માટે ટેપ કરો</string>
+
+    <string name="sign">સાઇન</string>
+
+    <string name = "crop_image_menu_rotate_right">જમણે</string>
+    <string name="crop_image_menu_rotate_left">ડાબે</string>
+</resources>

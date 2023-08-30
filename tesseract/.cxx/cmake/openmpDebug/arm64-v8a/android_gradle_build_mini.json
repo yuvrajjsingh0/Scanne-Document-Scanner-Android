@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\tess_version.h.in",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\endianness.h.in",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\config_auto.h.in",
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\CMakeLists.txt",
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "tesseract-Debug-arm64-v8a": {
+      "artifactName": "tesseract",
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" tesseract",
+      "abi": "arm64-v8a",
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\openmpDebug\\obj\\arm64-v8a\\libtesseract.so",
+      "runtimeFiles": []
+    },
+    "leptonica-Debug-arm64-v8a": {
+      "artifactName": "leptonica",
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" leptonica",
+      "abi": "arm64-v8a",
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\openmpDebug\\obj\\arm64-v8a\\libleptonica.so",
+      "runtimeFiles": []
+    },
+    "png-Debug-arm64-v8a": {
+      "artifactName": "png",
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" png",
+      "abi": "arm64-v8a",
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\openmpDebug\\obj\\arm64-v8a\\libpng.so",
+      "runtimeFiles": []
+    },
+    "jpeg-Debug-arm64-v8a": {
+      "artifactName": "jpeg",
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\arm64-v8a\" jpeg",
+      "abi": "arm64-v8a",
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\openmpDebug\\obj\\arm64-v8a\\libjpeg.so",
+      "runtimeFiles": []
+    }
+  }
+}

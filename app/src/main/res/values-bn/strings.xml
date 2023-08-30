@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">প্রয়োগ করুন</string>
+
+    <string name="lbl_cancel">বাতিল করুন</string>
+    <string name="lbl_delete">মুছুন</string>
+    <string name = "lbl_left">বাম</string>
+    <string name="lbl_right">ডান</string>
+    <string name="lbl_crop">ক্রপ করুন</string>
+    <string name="lbl_camera_unavailable">ক্যামেরা উপলব্ধ নয় (ব্যবহারে আছে বা বিদ্যমান নেই)৷\nঅনুগ্রহ করে ক্যামেরা ব্যবহার করতে পারে এমন অ্যাপগুলি বন্ধ করুন৷</string>
+    <string name="lbl_zoom_ratio_value">জুম: %1.2fx</string>
+    <string name = "lbl_open_photo_preview">শটের পর প্রিভিউ ফটো খুলুন</string>
+    <string name="lbl_settings">সেটিংস</string>
+    <string name = "lbl_hdr">HDR</string>
+    <string name="lbl_close">বন্ধ করুন</string>
+    <string name="lbl_focus_mode">ফোকাস মোড</string>
+    <string name="lbl_ratio">অনুপাত</string>
+    <string name = "lbl_quality">গুণমান</string>
+    <string name = "lbl_take_another"> আরেকটি নিন</string>
+    <string name="lbl_photo_crop">ফটো ক্রপ</string>
+    <string name = "lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">অরিজিনাল</string>
+    <string name = "magic_color"> ম্যাজিক কালার</string>
+    <string name = "gray_mode">ধূসর মোড</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name = "single_mode">একক মোড</string>
+    <string name = "batch_mode"> ব্যাচ মোড</string>
+    <string name="hello_blank_fragment">হ্যালো ফাঁকা খণ্ড</string>
+
+    <string name="import_from_gallery">গ্যালারি থেকে আমদানি করুন</string>
+    <string name="rate_us">আমাদের রেট করুন</string>
+    <string name="enter_name">নাম লিখুন…</string>
+    <string name = "generate_pdf"> PDF তৈরি করুন</string>
+    <string name = "share_pdf"> PDF শেয়ার করুন</string>
+    <string name = "share_pdf_ocr"> PDF ভাগ করুন (OCR)</string>
+    <string name="share_images">ছবি শেয়ার করুন</string>৷
+    <string name="love_our_document_scanner">এই ডকুমেন্ট স্ক্যানারটি পছন্দ করেন?</string>
+
+    <string name="upgrade_pro_message">নিজেকে PRO-তে আপগ্রেড করার কথা বিবেচনা করুন</string>
+
+    <string name = "lifetime">জীবনকাল</string>
+    <string name="yearly">বার্ষিক</string>
+    <string name = "monthly">মাসিক</string>
+    <string name="downloading">ডাউনলোড হচ্ছে…</string>
+
+    <!-- Tesseract -->
+    <string name="downloading_language">ভাষা ডেটা ডাউনলোড হচ্ছে…</string>
+    <string name = "percentage_downloaded"> মোটের%:</string>
+    <string name="you_are_not_connected_to_internet">আপনি ইন্টারনেটের সাথে সংযুক্ত নন</string>
+    <string name="yes">হ্যাঁ</string>৷
+    <string name="no">না</string>
+    <string name="download_description">OCR কার্যকারিতা সঠিকভাবে কাজ করার জন্য, কিছু অতিরিক্ত ডেটা আপনার ডিভাইসে ডাউনলোড করতে হবে।\nআপনি কি নির্বাচিত ভাষা(%s) ডেটা ডাউনলোড করতে চান? আপনি অ্যাপ সেটিংস</string> থেকে আরও ভাষা ডাউনলোড করতে পারেন
+    <string name="training_data_missing">ভাষা ডেটা অনুপস্থিত!</string>৷
+    <string name="select_language">ভাষা নির্বাচন করুন</string>
+    <string name="create_new">নতুন তৈরি করুন</string>
+    <string name="documents_list_empty">আপনার নথির তালিকা খালি</string>
+    <string name="no_notes_exists">কোন নোট নেই!</string>
+    <string name="backup_now">এখনই ব্যাকআপ নিন</string>৷
+    <string name="restore_backup">ব্যাকআপ পুনরুদ্ধার করুন</string>
+    <string name = "backup_message_sync"> আপনার স্ক্যান করা নথিগুলিকে Google ড্রাইভে নির্বিঘ্ন সিঙ্ক্রোনাইজেশনের মাধ্যমে সহজেই ব্যাকআপ করুন</string>
+    <string name="back">ফিরে</string>
+    <string name = "ocr">OCR</string>
+    <string name="image">চিত্র</string>
+    <string name="select_from_gallery">গ্যালারি থেকে নির্বাচন করুন</string>
+    <string name="open_camera">ক্যামেরা খুলুন</string>৷
+    <string name="start_sync">সিঙ্ক শুরু করুন</string>
+    <string name="document_1">নথি 1</string>৷
+    <string name="rate_us_txt">আমাদের রেট দিতে ভুলবেন না৷</string>৷
+
+    <string name="rate_us_desc">রেট দিতে হ্যাঁ বা প্রস্থান করতে না চাপুন</string>
+    <string name="pro_member_message">আপনি একজন PRO সদস্য!</string>
+    <string name="req_cam_access_message">স্ক্যানের জন্য ক্যামেরায় অ্যাক্সেস প্রয়োজন</string>
+    <string name = "req_storage_access_message">স্ক্যানের জন্য সঞ্চয়স্থানে অ্যাক্সেস প্রয়োজন</string>
+    <string name="req_media_access_message">স্ক্যানের জন্য মিডিয়াতে অ্যাক্সেস প্রয়োজন</string>
+    <string name="req_storage_cam_access_message">স্ক্যানের কাজ করার জন্য সঞ্চয়স্থান এবং ক্যামেরার অনুমতি প্রয়োজন</string>
+    <string name="watch_ads_message">এগিয়ে যাওয়ার জন্য আপনাকে ভিডিও বিজ্ঞাপন দেখতে হবে</string>
+
+    <string name = "premium_feature">প্রিমিয়াম বৈশিষ্ট্য</string>
+    <string name="upgrade_pro_prompt">অনুগ্রহ করে PRO তে আপগ্রেড করুন</string>
+    <string name = "please_wait">অনুগ্রহ করে অপেক্ষা করুন…</string>
+    <string name = "created_success_accuracy"> নির্ভুলতার সাথে সফলভাবে তৈরি করা হয়েছে: %s</string>
+    <string name="error_occurred">একটি ত্রুটি ঘটেছে</string>
+    <string name="already_logged_message">ইতিমধ্যে %s হিসাবে লগ ইন করা আছে</string>
+    <string name = "scan_count"> %s স্ক্যান করুন</string>
+    <string name="docs_count">%s নথি</string>
+    <string name="delete_alert_title">দস্তাবেজ মুছুন</string>
+    <string name="delete_alert_message">আপনি কি মুছে ফেলার বিষয়ে নিশ্চিত?</string>
+    <string name = "rename_doc"> নথির নাম পরিবর্তন করুন</string>
+
+    <string name="enter_valid_name">দয়া করে একটি বৈধ নাম লিখুন</string>
+    <string name="starting_sync">সিঙ্ক্রোনাইজেশন শুরু হচ্ছে</string>
+    <string name="error">ত্রুটি</string>
+    <string name="sync_error">Google ড্রাইভের সাথে ফাইল সিঙ্ক্রোনাইজ করার সময় একটি ত্রুটি ঘটেছে</string>
+    <string name="success">সফল</string>
+    <string name="sync_success">Google ড্রাইভের সাথে ফাইলগুলি সিঙ্ক্রোনাইজ করা সফল হয়েছে</string>
+    <string name="fetching_data">সার্ভার থেকে ডেটা আনা হচ্ছে</string>
+    <string name="share_notes">নোট শেয়ার করুন…</string>
+
+    <string name="downloading_lang">ডাউনলোড করা ভাষা</string>
+
+    <string name = "total_lang_d_ct"> মোট %s ভাষা</string>
+    <string name="download_failed">ডাউনলোড ব্যর্থ হয়েছে</string>
+    <string name="download_failed_lang">প্রদত্ত ভাষা ডাউনলোড করতে ব্যর্থ হয়েছে: %s</string>
+    <string name="downloaded_num_lang">%s ভাষা ডাউনলোড করা হয়েছে</string>
+    <string name="downloading_n">%s ডাউনলোড হচ্ছে</string>৷
+    <string name="creating_pdf">আপনার জন্য একটি সুন্দর PDF রান্না করা হচ্ছে</string>
+
+    <string name="logged_out_message">আপনি লগ আউট হয়েছেন</string>
+    <string name="lang_downloaded">ভাষাগুলি সফলভাবে ডাউনলোড হয়েছে</string>৷
+    <string name="languages">ভাষা</string>
+    <string name="get_langs">আরো ভাষা পান</string>
+    <string name="look_n_feel">দেখুন এবং অনুভব করুন</string>৷
+    <string name="theme">থিম</string>
+    <string name="theme_desc">অন্ধকার এবং হালকা মোডের মধ্যে স্যুইচ করুন</string>
+    <string name="more">আরো</string>
+    <string name = "about_us"> আমাদের সম্পর্কে</string>
+    <string name="about_us_desc">আমাদের সম্পর্কে আরও জানুন</string>
+    <string name="contact_us">আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="contact_us_desc">যেকোন অর্থপ্রদান বা রিফান্ড সম্পর্কিত প্রশ্নের জন্য আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="leave_feedback">একটি প্রতিক্রিয়া দিন</string>
+    <string name="leave_feedback_desc">প্রযুক্তিগত সমস্যা রিপোর্ট করুন বা নতুন বৈশিষ্ট্যের পরামর্শ দিন</string>
+    <string name = "rotation"> ঘূর্ণন</string>
+    <string name = "opacity">অস্বচ্ছতা</string>
+    <string name="brush">ব্রাশ</string>
+    <string name="label_brush">ব্রাশ</string>
+
+    <string name="label_emoji">ইমোজি</string>
+    <string name="label_sticker">স্টিকার</string>
+    <string name="label_eraser">ইরেজার</string>
+    <string name="label_eraser_mode">ইরেজার মোড</string>
+    <string name="label_text">পাঠ্য</string>
+    <string name="label_filter">ফিল্টার</string>
+    <string name = "label_adjust"> সামঞ্জস্য করুন</string>
+    <string name="msg_save_image">ছবি সেভ না করেই প্রস্থান করবেন?</string>
+    <string name="msg_save_image_to_share">অনুগ্রহ করে শেয়ার করতে ছবি সংরক্ষণ করুন</string>
+    <string name="msg_share_image">ছবি শেয়ার করুন</string>
+    <string name="save">সংরক্ষণ করুন</string>৷
+
+    <string name="dontsave">সংরক্ষণ করবেন না</string>
+    <string name="no_signature_msg">আপনার কোনো স্বাক্ষর নেই৷ একটি যোগ করতে আলতো চাপুন</string>
+
+    <string name="sign">সাইন</string>৷
+
+    <string name="crop_image_menu_rotate_right">ডান</string>
+    <string name = "crop_image_menu_rotate_left">বাম</string>
+</resources>

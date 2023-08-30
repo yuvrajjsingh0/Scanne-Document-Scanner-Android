@@ -1,0 +1,38 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\openmpDebug\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "openmpDebug|x86"
+  }
+]

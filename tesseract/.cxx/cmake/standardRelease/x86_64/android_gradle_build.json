@@ -1,0 +1,3572 @@
+{
+  "stringTable": {
+    "0": "E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardRelease/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djpeg_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "2": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpng_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "3": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID_BUILD -DHAVE_LIBJPEG=1 -DHAVE_LIBPNG=1 -DHAVE_LIBZ=1 -Dleptonica_EXPORTS -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/src/src -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libjpeg/src -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libpng/src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -Wno-address-of-packed-member",
+    "4": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGRAPHICS_DISABLED -DHAVE_CONFIG_H -Dtesseract_EXPORTS -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/../leptonica/src/src -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/api -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/arch -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccmain -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccstruct -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccutil -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/classify -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/cutil -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/dict -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/lstm -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/opencl -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/textord -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/viewer -IE:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/wordrec -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -Wno-null-dereference"
+  },
+  "buildFiles": [
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\tess_version.h.in",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\endianness.h.in",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\config_auto.h.in",
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\CMakeLists.txt",
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "jpeg-Release-x86_64": {
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" jpeg",
+      "buildType": "release",
+      "toolchain": "3550533280",
+      "abi": "x86_64",
+      "artifactName": "jpeg",
+      "files": [
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jaricom.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcapimin.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcapistd.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcarith.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jccoefct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jccolor.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcdctmgr.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jchuff.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcinit.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcmainct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcmarker.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcmaster.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcomapi.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcparam.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcprepct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jcsample.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jctrans.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdapimin.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdapistd.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdarith.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdatadst.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdatasrc.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdcoefct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdcolor.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jddctmgr.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdhuff.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdinput.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdmainct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdmarker.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdmaster.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdmerge.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdpostct.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdsample.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jdtrans.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jerror.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jfdctflt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jfdctfst.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jfdctint.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jidctflt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jidctfst.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jidctint.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jquant1.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jquant2.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jutils.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jmemmgr.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libjpeg\\src\\jmemansi.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libjpeg.so",
+      "runtimeFiles": []
+    },
+    "png-Release-x86_64": {
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" png",
+      "buildType": "release",
+      "toolchain": "3550533280",
+      "abi": "x86_64",
+      "artifactName": "png",
+      "files": [
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\png.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngerror.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngget.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngmem.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngpread.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngread.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngrio.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngrtran.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngrutil.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngset.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngtrans.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngwio.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngwrite.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngwtran.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\pngwutil.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\arm\\arm_init.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\arm\\filter_neon_intrinsics.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\libpng\\src\\arm\\palette_neon_intrinsics.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libpng.so",
+      "runtimeFiles": []
+    },
+    "leptonica-Release-x86_64": {
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" leptonica",
+      "buildType": "release",
+      "toolchain": "3550533280",
+      "abi": "x86_64",
+      "artifactName": "leptonica",
+      "files": [
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\adaptmap.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\affine.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\affinecompose.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\arrayaccess.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bardecode.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\baseline.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bbuffer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bilateral.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bilinear.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\binarize.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\binexpand.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\binreduce.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\blend.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmf.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmpio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmpiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bootnumgen1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bootnumgen2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bootnumgen3.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bootnumgen4.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxbasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxfunc1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxfunc2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxfunc3.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxfunc4.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\boxfunc5.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bytearray.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ccbord.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ccthin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\checkerboard.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\classapp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorcontent.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorfill.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\coloring.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colormap.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colormorph.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorquant1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorquant2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorseg.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorspace.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\compare.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\conncomp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\convertfiles.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\convolve.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\correlscore.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dewarp1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dewarp2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dewarp3.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dewarp4.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dnabasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dnafunc1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dnahash.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dwacomb.2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dwacomblow.2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\edge.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\encoding.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\enhance.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fhmtauto.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fhmtgen.1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fhmtgenlow.1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\finditalic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\flipdetect.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fmorphauto.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fmorphgen.1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fmorphgenlow.1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fpix1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\fpix2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\gifio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\gifiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\gplot.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\graphics.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\graymorph.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\grayquant.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\hashmap.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\heap.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jbclass.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jp2kheader.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jp2kheaderstub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jp2kio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jp2kiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jpegio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jpegiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\kernel.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\leptwin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\libversions.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\list.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\map.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\maze.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\morph.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\morphapp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\morphdwa.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\morphseq.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\numabasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\numafunc1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\numafunc2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pageseg.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\paintcmap.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\parseprotos.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\partify.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\partition.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pdfio1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pdfio1stub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pdfio2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pdfio2stub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix3.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix4.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix5.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixabasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixacc.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixafunc1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixafunc2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixalloc.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixarith.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixcomp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixconv.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixlabel.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pixtiling.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pngio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pngiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pnmio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pnmiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\projective.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\psio1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\psio1stub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\psio2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\psio2stub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ptabasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ptafunc1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ptafunc2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ptra.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\quadtree.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\queue.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rank.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rbtree.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\readbarcode.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\readfile.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\recogbasic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\recogdid.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\recogident.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\recogtrain.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\regutils.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rop.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\roplow.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rotate.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rotateam.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rotateorth.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rotateshear.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\runlength.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sarray1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sarray2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\scale1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\scale2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\seedfill.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sel1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sel2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\selgen.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\shear.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\skew.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\spixio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\stack.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\stringcode.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\strokes.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sudoku.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\textops.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\tiffio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\tiffiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\utils1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\utils2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\warper.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\watershed.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\webpanimio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\webpanimiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\webpio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\webpiostub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\writefile.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\zlibmem.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\zlibmemstub.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\box.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\boxa.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\jni.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\pix.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\pixa.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\readfile.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\utilities.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\writefile.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\allheaders.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\alltypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\array.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\arrayaccess.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bbuffer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bilateral.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmfdata.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\bmp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ccbord.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\colorfill.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\dewarp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\endianness.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\environ.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\gplot.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\hashmap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\heap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\imageio.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\jbclass.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\leptwin.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\list.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\morph.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\pix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\ptra.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\queue.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\rbtree.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\readbarcode.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\recog.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\regutils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\stack.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\stringcode.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\sudoku.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\src\\src\\watershed.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\leptonica\\common.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libleptonica.so",
+      "runtimeFiles": [
+        "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libjpeg.so",
+        "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libpng.so"
+      ]
+    },
+    "tesseract-Release-x86_64": {
+      "buildCommand": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardRelease\\x86_64\" tesseract",
+      "buildType": "release",
+      "toolchain": "3550533280",
+      "abi": "x86_64",
+      "artifactName": "tesseract",
+      "files": [
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\altorenderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\baseapi.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\capi.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\hocrrenderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\lstmboxrenderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\pdfrenderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\renderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\wordstrboxrenderer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\simddetect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\intsimdmatrix.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\dotproduct.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\adaptions.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\applybox.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\control.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\docqual.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\equationdetect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\fixspace.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\fixxht.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\linerec.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\ltrresultiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\mutableiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\osdetect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\output.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pageiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pagesegmain.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pagewalk.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\par_control.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\paragraphs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\paramsd.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pgedit.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\recogtraining.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\reject.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\resultiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\superscript.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tessbox.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tessedit.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tesseractclass.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tessvars.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tfacepp.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\thresholder.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\werdit.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blamer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blobbox.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blobs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blread.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\boxread.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\boxword.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ccstruct.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\coutln.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\detlinefit.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\dppoint.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\fontinfo.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\imagedata.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\linlsq.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\matrix.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\mod128.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\normalis.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrblock.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrpara.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrrow.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\otsuthr.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\pageres.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\params_training_featdef.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\pdblock.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\points.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\polyaprx.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\polyblk.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\publictypes.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\quadlsq.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\quspline.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ratngs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\rect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\rejctmap.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\seam.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\split.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\statistc.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\stepblob.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\werd.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\ambigs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\bitvector.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\ccutil.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\clst.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\elst.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\elst2.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\errcode.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\globaloc.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\indexmapbidi.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\mainblk.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\params.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\scanutils.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\serialis.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\strngs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\tessdatamanager.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\tprintf.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unichar.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharcompress.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharmap.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharset.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicodes.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\universalambigs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\adaptive.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\adaptmatch.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\blobclass.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\classify.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\cluster.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\clusttool.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\cutoffs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\featdefs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\float2int.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\fpoint.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturedist.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturemap.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturespace.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfx.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intmatcher.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intproto.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\kdtree.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mf.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfdefs.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfoutline.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfx.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\normfeat.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\normmatch.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\ocrfeatures.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\outfeat.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\picofeat.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\protos.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\sampleiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\shapeclassifier.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\shapetable.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\tessclassifier.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\trainingsample.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\trainingsampleset.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\callcpp.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\cutil_class.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\emalloc.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\oldlist.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\context.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dawg.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dawg_cache.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dict.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\hyphen.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\permdawg.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\stopper.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\trie.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\convolve.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\ctc.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\fullyconnected.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\functions.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\input.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstm.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstmrecognizer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstmtrainer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\maxpool.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\network.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\networkbuilder.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\networkio.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\parallel.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\plumbing.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\recodebeam.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\reconfig.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\reversed.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\series.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\stridemap.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\tfnetwork.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\weightmatrix.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\opencl\\openclwrapper.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\alignedblob.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\baselinedetect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\bbgrid.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\blkocc.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\blobgrid.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\ccnontextdetect.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\cjkpitch.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colfind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartition.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartitiongrid.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartitionset.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\devanagari_processing.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\drawtord.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\edgblob.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\edgloop.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\equationdetectbase.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\fpchop.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\gap_map.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\imagefind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\linefind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\makerow.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\oldbasel.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\pithsync.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\pitsync1.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\scanedg.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\sortflts.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\strokewidth.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tabfind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tablefind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tablerecog.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tabvector.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\textlineprojection.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\textord.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\topitch.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tordmain.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tospace.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tovars.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\underlin.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\wordseg.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\workingpartset.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\scrollview.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\svmnode.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\svpaint.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\svutil.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\associate.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\chop.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\chopper.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\drawfx.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\findseam.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\gradechop.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\language_model.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_consistency.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_pain_points.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_state.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\outlines.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\params_model.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\pieces.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\plotedges.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\render.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\segsearch.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\tface.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\wordclass.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\wordrec.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\pageiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\resultiterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\tessbaseapi.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\apitypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\baseapi.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\capi.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\config_auto.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\renderer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\api\\tess_version.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\dotproduct.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\intsimdmatrix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\arch\\simddetect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\control.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\docqual.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\equationdetect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\fixspace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\ltrresultiterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\mutableiterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\osdetect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\output.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pageiterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\paragraphs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\paragraphs_internal.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\paramsd.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\pgedit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\reject.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\resultiterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tesseractclass.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\tessvars.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\thresholder.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccmain\\werdit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blamer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blobbox.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blobs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\blread.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\boxread.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\boxword.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ccstruct.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\coutln.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\crakedge.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\debugpixa.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\detlinefit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\dppoint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\fontinfo.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\imagedata.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\linlsq.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\matrix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\mod128.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\normalis.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrblock.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrpara.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ocrrow.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\otsuthr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\pageres.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\params_training_featdef.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\pdblock.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\points.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\polyaprx.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\polyblk.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\publictypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\quadlsq.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\quadratc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\quspline.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\ratngs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\rect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\rejctmap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\seam.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\split.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\statistc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\stepblob.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccstruct\\werd.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\ambigs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\bits16.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\bitvector.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\ccutil.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\clst.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\doubleptr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\elst.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\elst2.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\errcode.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\fileerr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\genericheap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\genericvector.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\globaloc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\helpers.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\host.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\indexmapbidi.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\kdpair.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\lsterr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\object_cache.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\ocrclass.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\params.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\platform.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\qrsequence.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\scanutils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\serialis.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\sorthelper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\strngs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\tesscallback.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\tessdatamanager.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\tprintf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unichar.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharcompress.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharmap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicharset.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicity_table.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\unicodes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\ccutil\\universalambigs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\adaptive.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\blobclass.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\classify.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\cluster.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\clusttool.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\featdefs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\float2int.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\fpoint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturedist.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturemap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfeaturespace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intfx.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intmatcher.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\intproto.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\kdtree.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfdefs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfoutline.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\mfx.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\normfeat.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\normmatch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\ocrfeatures.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\outfeat.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\picofeat.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\protos.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\sampleiterator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\shapeclassifier.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\shapetable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\tessclassifier.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\trainingsample.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\classify\\trainingsampleset.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\bitvec.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\callcpp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\cutil_class.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\emalloc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\cutil\\oldlist.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dawg.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dawg_cache.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\dict.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\matchdefs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\stopper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\dict\\trie.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\convolve.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\ctc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\fullyconnected.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\functions.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\input.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstm.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstmrecognizer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\lstmtrainer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\maxpool.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\network.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\networkbuilder.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\networkio.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\networkscratch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\parallel.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\plumbing.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\recodebeam.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\reconfig.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\reversed.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\series.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\static_shape.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\stridemap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\tfnetwork.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\tfnetwork.pb.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\lstm\\weightmatrix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\opencl\\oclkernels.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\opencl\\openclwrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\alignedblob.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\baselinedetect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\bbgrid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\blkocc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\blobgrid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\ccnontextdetect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\cjkpitch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colfind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartition.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartitiongrid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\colpartitionset.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\devanagari_processing.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\drawtord.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\edgblob.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\edgloop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\equationdetectbase.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\fpchop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\gap_map.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\imagefind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\linefind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\makerow.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\oldbasel.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\pithsync.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\pitsync1.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\scanedg.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\sortflts.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\strokewidth.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tabfind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tablefind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tablerecog.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tabvector.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\textlineprojection.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\textord.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\topitch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tordmain.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\tovars.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\underlin.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\wordseg.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\textord\\workingpartset.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\scrollview.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\svmnode.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\viewer\\svutil.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\associate.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\chop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\drawfx.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\findseam.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\language_model.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_consistency.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_pain_points.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\lm_state.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\measure.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\outlines.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\params_model.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\plotedges.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\render.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\src\\src\\wordrec\\wordrec.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\src\\main\\cpp\\tesseract\\common.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libtesseract.so",
+      "runtimeFiles": [
+        "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libleptonica.so",
+        "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libjpeg.so",
+        "E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardRelease\\obj\\x86_64\\libpng.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "3550533280": {
+      "cCompilerExecutable": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

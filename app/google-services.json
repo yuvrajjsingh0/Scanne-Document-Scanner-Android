@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167097838064",
+    "firebase_url": "https://tapscanner-4c6ef.firebaseio.com",
+    "project_id": "tapscanner-4c6ef",
+    "storage_bucket": "tapscanner-4c6ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167097838064:android:df6e773f79fc75390ad535",
+        "android_client_info": {
+          "package_name": "com.documentscanner.pdfscanner365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167097838064-v671qtg5olce9afm7k4q26cvrj647ob3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHtd-4DohBIDBSp8n6V67Jt9PfBpNngQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167097838064-v671qtg5olce9afm7k4q26cvrj647ob3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@drawable/bg_gradient">
+
+   <com.documentscanner.pdfscanner365.views.PinchImageView
+       android:id="@+id/preview_iv"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent" />
+
+   <LinearLayout
+       android:id="@+id/top_bar"
+       android:background="@color/semi_black_transparent"
+       android:orientation="horizontal"
+       android:gravity="end"
+       android:layout_alignParentEnd="true"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+      <Button
+          android:id="@+id/sign_butt"
+          android:text="@string/sign"
+          android:layout_margin="15dp"
+          android:background="@android:color/transparent"
+          android:foreground="?android:attr/selectableItemBackgroundBorderless"
+          android:layout_width="55dp"
+          android:layout_height="55dp" />
+      <Button
+          android:id="@+id/ocr_butt"
+          android:text="@string/ocr"
+          android:layout_margin="15dp"
+          android:background="@android:color/transparent"
+          android:foreground="?android:attr/selectableItemBackgroundBorderless"
+          android:layout_width="55dp"
+          android:layout_height="55dp" />
+   </LinearLayout>
+
+
+   <ProgressBar
+       android:id="@+id/progress"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+       android:visibility="gone"/>
+
+   <LinearLayout
+       android:id="@+id/bottom_bar"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+       android:background="@color/semi_black_transparent">
+
+      <ImageButton
+          android:id="@+id/share_ib"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:src="@drawable/ic_share"
+          android:background="@android:color/transparent"
+          android:padding="15dp"
+          android:contentDescription="@string/share_images" />
+
+      <ImageButton
+          android:id="@+id/rotate_left_ib"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:src="@drawable/ic_rotate_left"
+          android:background="@android:color/transparent"
+          android:padding="15dp"
+          android:contentDescription="@string/crop_image_menu_rotate_left" />
+
+      <ImageButton
+          android:id="@+id/rotate_right_ib"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:scaleX="-1"
+          android:src="@drawable/ic_rotate_left"
+          android:background="@android:color/transparent"
+          android:padding="15dp"
+          android:contentDescription="@string/crop_image_menu_rotate_right" />
+
+      <ImageButton
+          android:id="@+id/delete_ib"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:src="@drawable/ic_delete"
+          android:background="@android:color/transparent"
+          android:padding="15dp"
+          android:contentDescription="@string/lbl_delete" />
+
+   </LinearLayout>
+</RelativeLayout>

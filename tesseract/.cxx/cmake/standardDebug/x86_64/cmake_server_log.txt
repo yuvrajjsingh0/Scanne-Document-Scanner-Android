@@ -1,0 +1,238 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp",
+  "buildDirectory": "E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003dE:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\.cxx\\cmake\\standardDebug\\prefab\\x86_64\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003dx86_64",
+    "-DANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d16"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":359,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":539,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":719,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":900,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":919,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":940,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":960,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":979,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":200,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":400,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":600,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":800,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake","C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake","libjpeg/CMakeLists.txt","libpng/CMakeLists.txt","leptonica/CMakeLists.txt","leptonica/endianness.h.in","tesseract/CMakeLists.txt","tesseract/src/src/api/tess_version.h.in","tesseract/config_auto.h.in"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/standardDebug/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/standardDebug/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/standardDebug/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"C:/Users/ASUS/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64","name":"Project","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp","targets":[{"artifacts":["E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/build/intermediates/cmake/standardDebug/obj/x86_64/libtesseract.so"],"buildDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/tesseract","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -Wno-null-dereference","defines":["GRAPHICS_DISABLED","HAVE_CONFIG_H","tesseract_EXPORTS"],"includePath":[{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/../leptonica/src/src"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/api"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/arch"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccmain"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccstruct"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/ccutil"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/classify"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/cutil"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/dict"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/lstm"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/opencl"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/textord"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/viewer"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract/src/src/wordrec"}],"isGenerated":false,"language":"CXX","sources":["src/src/api/altorenderer.cpp","src/src/api/baseapi.cpp","src/src/api/capi.cpp","src/src/api/hocrrenderer.cpp","src/src/api/lstmboxrenderer.cpp","src/src/api/pdfrenderer.cpp","src/src/api/renderer.cpp","src/src/api/wordstrboxrenderer.cpp","src/src/arch/simddetect.cpp","src/src/arch/intsimdmatrix.cpp","src/src/arch/dotproduct.cpp","src/src/ccmain/adaptions.cpp","src/src/ccmain/applybox.cpp","src/src/ccmain/control.cpp","src/src/ccmain/docqual.cpp","src/src/ccmain/equationdetect.cpp","src/src/ccmain/fixspace.cpp","src/src/ccmain/fixxht.cpp","src/src/ccmain/linerec.cpp","src/src/ccmain/ltrresultiterator.cpp","src/src/ccmain/mutableiterator.cpp","src/src/ccmain/osdetect.cpp","src/src/ccmain/output.cpp","src/src/ccmain/pageiterator.cpp","src/src/ccmain/pagesegmain.cpp","src/src/ccmain/pagewalk.cpp","src/src/ccmain/par_control.cpp","src/src/ccmain/paragraphs.cpp","src/src/ccmain/paramsd.cpp","src/src/ccmain/pgedit.cpp","src/src/ccmain/recogtraining.cpp","src/src/ccmain/reject.cpp","src/src/ccmain/resultiterator.cpp","src/src/ccmain/superscript.cpp","src/src/ccmain/tessbox.cpp","src/src/ccmain/tessedit.cpp","src/src/ccmain/tesseractclass.cpp","src/src/ccmain/tessvars.cpp","src/src/ccmain/tfacepp.cpp","src/src/ccmain/thresholder.cpp","src/src/ccmain/werdit.cpp","src/src/ccstruct/blamer.cpp","src/src/ccstruct/blobbox.cpp","src/src/ccstruct/blobs.cpp","src/src/ccstruct/blread.cpp","src/src/ccstruct/boxread.cpp","src/src/ccstruct/boxword.cpp","src/src/ccstruct/ccstruct.cpp","src/src/ccstruct/coutln.cpp","src/src/ccstruct/detlinefit.cpp","src/src/ccstruct/dppoint.cpp","src/src/ccstruct/fontinfo.cpp","src/src/ccstruct/imagedata.cpp","src/src/ccstruct/linlsq.cpp","src/src/ccstruct/matrix.cpp","src/src/ccstruct/mod128.cpp","src/src/ccstruct/normalis.cpp","src/src/ccstruct/ocrblock.cpp","src/src/ccstruct/ocrpara.cpp","src/src/ccstruct/ocrrow.cpp","src/src/ccstruct/otsuthr.cpp","src/src/ccstruct/pageres.cpp","src/src/ccstruct/params_training_featdef.cpp","src/src/ccstruct/pdblock.cpp","src/src/ccstruct/points.cpp","src/src/ccstruct/polyaprx.cpp","src/src/ccstruct/polyblk.cpp","src/src/ccstruct/publictypes.cpp","src/src/ccstruct/quadlsq.cpp","src/src/ccstruct/quspline.cpp","src/src/ccstruct/ratngs.cpp","src/src/ccstruct/rect.cpp","src/src/ccstruct/rejctmap.cpp","src/src/ccstruct/seam.cpp","src/src/ccstruct/split.cpp","src/src/ccstruct/statistc.cpp","src/src/ccstruct/stepblob.cpp","src/src/ccstruct/werd.cpp","src/src/ccutil/ambigs.cpp","src/src/ccutil/bitvector.cpp","src/src/ccutil/ccutil.cpp","src/src/ccutil/clst.cpp","src/src/ccutil/elst.cpp","src/src/ccutil/elst2.cpp","src/src/ccutil/errcode.cpp","src/src/ccutil/globaloc.cpp","src/src/ccutil/indexmapbidi.cpp","src/src/ccutil/mainblk.cpp","src/src/ccutil/params.cpp","src/src/ccutil/scanutils.cpp","src/src/ccutil/serialis.cpp","src/src/ccutil/strngs.cpp","src/src/ccutil/tessdatamanager.cpp","src/src/ccutil/tprintf.cpp","src/src/ccutil/unichar.cpp","src/src/ccutil/unicharcompress.cpp","src/src/ccutil/unicharmap.cpp","src/src/ccutil/unicharset.cpp","src/src/ccutil/unicodes.cpp","src/src/ccutil/universalambigs.cpp","src/src/classify/adaptive.cpp","src/src/classify/adaptmatch.cpp","src/src/classify/blobclass.cpp","src/src/classify/classify.cpp","src/src/classify/cluster.cpp","src/src/classify/clusttool.cpp","src/src/classify/cutoffs.cpp","src/src/classify/featdefs.cpp","src/src/classify/float2int.cpp","src/src/classify/fpoint.cpp","src/src/classify/intfeaturedist.cpp","src/src/classify/intfeaturemap.cpp","src/src/classify/intfeaturespace.cpp","src/src/classify/intfx.cpp","src/src/classify/intmatcher.cpp","src/src/classify/intproto.cpp","src/src/classify/kdtree.cpp","src/src/classify/mf.cpp","src/src/classify/mfdefs.cpp","src/src/classify/mfoutline.cpp","src/src/classify/mfx.cpp","src/src/classify/normfeat.cpp","src/src/classify/normmatch.cpp","src/src/classify/ocrfeatures.cpp","src/src/classify/outfeat.cpp","src/src/classify/picofeat.cpp","src/src/classify/protos.cpp","src/src/classify/sampleiterator.cpp","src/src/classify/shapeclassifier.cpp","src/src/classify/shapetable.cpp","src/src/classify/tessclassifier.cpp","src/src/classify/trainingsample.cpp","src/src/classify/trainingsampleset.cpp","src/src/cutil/callcpp.cpp","src/src/cutil/cutil_class.cpp","src/src/cutil/emalloc.cpp","src/src/cutil/oldlist.cpp","src/src/dict/context.cpp","src/src/dict/dawg.cpp","src/src/dict/dawg_cache.cpp","src/src/dict/dict.cpp","src/src/dict/hyphen.cpp","src/src/dict/permdawg.cpp","src/src/dict/stopper.cpp","src/src/dict/trie.cpp","src/src/lstm/convolve.cpp","src/src/lstm/ctc.cpp","src/src/lstm/fullyconnected.cpp","src/src/lstm/functions.cpp","src/src/lstm/input.cpp","src/src/lstm/lstm.cpp","src/src/lstm/lstmrecognizer.cpp","src/src/lstm/lstmtrainer.cpp","src/src/lstm/maxpool.cpp","src/src/lstm/network.cpp","src/src/lstm/networkbuilder.cpp","src/src/lstm/networkio.cpp","src/src/lstm/parallel.cpp","src/src/lstm/plumbing.cpp","src/src/lstm/recodebeam.cpp","src/src/lstm/reconfig.cpp","src/src/lstm/reversed.cpp","src/src/lstm/series.cpp","src/src/lstm/stridemap.cpp","src/src/lstm/tfnetwork.cpp","src/src/lstm/weightmatrix.cpp","src/src/opencl/openclwrapper.cpp","src/src/textord/alignedblob.cpp","src/src/textord/baselinedetect.cpp","src/src/textord/bbgrid.cpp","src/src/textord/blkocc.cpp","src/src/textord/blobgrid.cpp","src/src/textord/ccnontextdetect.cpp","src/src/textord/cjkpitch.cpp","src/src/textord/colfind.cpp","src/src/textord/colpartition.cpp","src/src/textord/colpartitiongrid.cpp","src/src/textord/colpartitionset.cpp","src/src/textord/devanagari_processing.cpp","src/src/textord/drawtord.cpp","src/src/textord/edgblob.cpp","src/src/textord/edgloop.cpp","src/src/textord/equationdetectbase.cpp","src/src/textord/fpchop.cpp","src/src/textord/gap_map.cpp","src/src/textord/imagefind.cpp","src/src/textord/linefind.cpp","src/src/textord/makerow.cpp","src/src/textord/oldbasel.cpp","src/src/textord/pithsync.cpp","src/src/textord/pitsync1.cpp","src/src/textord/scanedg.cpp","src/src/textord/sortflts.cpp","src/src/textord/strokewidth.cpp","src/src/textord/tabfind.cpp","src/src/textord/tablefind.cpp","src/src/textord/tablerecog.cpp","src/src/textord/tabvector.cpp","src/src/textord/textlineprojection.cpp","src/src/textord/textord.cpp","src/src/textord/topitch.cpp","src/src/textord/tordmain.cpp","src/src/textord/tospace.cpp","src/src/textord/tovars.cpp","src/src/textord/underlin.cpp","src/src/textord/wordseg.cpp","src/src/textord/workingpartset.cpp","src/src/viewer/scrollview.cpp","src/src/viewer/svmnode.cpp","src/src/viewer/svpaint.cpp","src/src/viewer/svutil.cpp","src/src/wordrec/associate.cpp","src/src/wordrec/chop.cpp","src/src/wordrec/chopper.cpp","src/src/wordrec/drawfx.cpp","src/src/wordrec/findseam.cpp","src/src/wordrec/gradechop.cpp","src/src/wordrec/language_model.cpp","src/src/wordrec/lm_consistency.cpp","src/src/wordrec/lm_pain_points.cpp","src/src/wordrec/lm_state.cpp","src/src/wordrec/outlines.cpp","src/src/wordrec/params_model.cpp","src/src/wordrec/pieces.cpp","src/src/wordrec/plotedges.cpp","src/src/wordrec/render.cpp","src/src/wordrec/segsearch.cpp","src/src/wordrec/tface.cpp","src/src/wordrec/wordclass.cpp","src/src/wordrec/wordrec.cpp","pageiterator.cpp","resultiterator.cpp","tessbaseapi.cpp"]},{"isGenerated":false,"sources":["src/src/api/apitypes.h","src/src/api/baseapi.h","src/src/api/capi.h","src/src/api/config_auto.h","src/src/api/renderer.h","src/src/api/tess_version.h","src/src/arch/dotproduct.h","src/src/arch/intsimdmatrix.h","src/src/arch/simddetect.h","src/src/ccmain/control.h","src/src/ccmain/docqual.h","src/src/ccmain/equationdetect.h","src/src/ccmain/fixspace.h","src/src/ccmain/ltrresultiterator.h","src/src/ccmain/mutableiterator.h","src/src/ccmain/osdetect.h","src/src/ccmain/output.h","src/src/ccmain/pageiterator.h","src/src/ccmain/paragraphs.h","src/src/ccmain/paragraphs_internal.h","src/src/ccmain/paramsd.h","src/src/ccmain/pgedit.h","src/src/ccmain/reject.h","src/src/ccmain/resultiterator.h","src/src/ccmain/tesseractclass.h","src/src/ccmain/tessvars.h","src/src/ccmain/thresholder.h","src/src/ccmain/werdit.h","src/src/ccstruct/blamer.h","src/src/ccstruct/blobbox.h","src/src/ccstruct/blobs.h","src/src/ccstruct/blread.h","src/src/ccstruct/boxread.h","src/src/ccstruct/boxword.h","src/src/ccstruct/ccstruct.h","src/src/ccstruct/coutln.h","src/src/ccstruct/crakedge.h","src/src/ccstruct/debugpixa.h","src/src/ccstruct/detlinefit.h","src/src/ccstruct/dppoint.h","src/src/ccstruct/fontinfo.h","src/src/ccstruct/imagedata.h","src/src/ccstruct/linlsq.h","src/src/ccstruct/matrix.h","src/src/ccstruct/mod128.h","src/src/ccstruct/normalis.h","src/src/ccstruct/ocrblock.h","src/src/ccstruct/ocrpara.h","src/src/ccstruct/ocrrow.h","src/src/ccstruct/otsuthr.h","src/src/ccstruct/pageres.h","src/src/ccstruct/params_training_featdef.h","src/src/ccstruct/pdblock.h","src/src/ccstruct/points.h","src/src/ccstruct/polyaprx.h","src/src/ccstruct/polyblk.h","src/src/ccstruct/publictypes.h","src/src/ccstruct/quadlsq.h","src/src/ccstruct/quadratc.h","src/src/ccstruct/quspline.h","src/src/ccstruct/ratngs.h","src/src/ccstruct/rect.h","src/src/ccstruct/rejctmap.h","src/src/ccstruct/seam.h","src/src/ccstruct/split.h","src/src/ccstruct/statistc.h","src/src/ccstruct/stepblob.h","src/src/ccstruct/werd.h","src/src/ccutil/ambigs.h","src/src/ccutil/bits16.h","src/src/ccutil/bitvector.h","src/src/ccutil/ccutil.h","src/src/ccutil/clst.h","src/src/ccutil/doubleptr.h","src/src/ccutil/elst.h","src/src/ccutil/elst2.h","src/src/ccutil/errcode.h","src/src/ccutil/fileerr.h","src/src/ccutil/genericheap.h","src/src/ccutil/genericvector.h","src/src/ccutil/globaloc.h","src/src/ccutil/helpers.h","src/src/ccutil/host.h","src/src/ccutil/indexmapbidi.h","src/src/ccutil/kdpair.h","src/src/ccutil/lsterr.h","src/src/ccutil/object_cache.h","src/src/ccutil/ocrclass.h","src/src/ccutil/params.h","src/src/ccutil/platform.h","src/src/ccutil/qrsequence.h","src/src/ccutil/scanutils.h","src/src/ccutil/serialis.h","src/src/ccutil/sorthelper.h","src/src/ccutil/strngs.h","src/src/ccutil/tesscallback.h","src/src/ccutil/tessdatamanager.h","src/src/ccutil/tprintf.h","src/src/ccutil/unichar.h","src/src/ccutil/unicharcompress.h","src/src/ccutil/unicharmap.h","src/src/ccutil/unicharset.h","src/src/ccutil/unicity_table.h","src/src/ccutil/unicodes.h","src/src/ccutil/universalambigs.h","src/src/classify/adaptive.h","src/src/classify/blobclass.h","src/src/classify/classify.h","src/src/classify/cluster.h","src/src/classify/clusttool.h","src/src/classify/featdefs.h","src/src/classify/float2int.h","src/src/classify/fpoint.h","src/src/classify/intfeaturedist.h","src/src/classify/intfeaturemap.h","src/src/classify/intfeaturespace.h","src/src/classify/intfx.h","src/src/classify/intmatcher.h","src/src/classify/intproto.h","src/src/classify/kdtree.h","src/src/classify/mf.h","src/src/classify/mfdefs.h","src/src/classify/mfoutline.h","src/src/classify/mfx.h","src/src/classify/normfeat.h","src/src/classify/normmatch.h","src/src/classify/ocrfeatures.h","src/src/classify/outfeat.h","src/src/classify/picofeat.h","src/src/classify/protos.h","src/src/classify/sampleiterator.h","src/src/classify/shapeclassifier.h","src/src/classify/shapetable.h","src/src/classify/tessclassifier.h","src/src/classify/trainingsample.h","src/src/classify/trainingsampleset.h","src/src/cutil/bitvec.h","src/src/cutil/callcpp.h","src/src/cutil/cutil_class.h","src/src/cutil/emalloc.h","src/src/cutil/oldlist.h","src/src/dict/dawg.h","src/src/dict/dawg_cache.h","src/src/dict/dict.h","src/src/dict/matchdefs.h","src/src/dict/stopper.h","src/src/dict/trie.h","src/src/lstm/convolve.h","src/src/lstm/ctc.h","src/src/lstm/fullyconnected.h","src/src/lstm/functions.h","src/src/lstm/input.h","src/src/lstm/lstm.h","src/src/lstm/lstmrecognizer.h","src/src/lstm/lstmtrainer.h","src/src/lstm/maxpool.h","src/src/lstm/network.h","src/src/lstm/networkbuilder.h","src/src/lstm/networkio.h","src/src/lstm/networkscratch.h","src/src/lstm/parallel.h","src/src/lstm/plumbing.h","src/src/lstm/recodebeam.h","src/src/lstm/reconfig.h","src/src/lstm/reversed.h","src/src/lstm/series.h","src/src/lstm/static_shape.h","src/src/lstm/stridemap.h","src/src/lstm/tfnetwork.h","src/src/lstm/tfnetwork.pb.h","src/src/lstm/weightmatrix.h","src/src/opencl/oclkernels.h","src/src/opencl/openclwrapper.h","src/src/textord/alignedblob.h","src/src/textord/baselinedetect.h","src/src/textord/bbgrid.h","src/src/textord/blkocc.h","src/src/textord/blobgrid.h","src/src/textord/ccnontextdetect.h","src/src/textord/cjkpitch.h","src/src/textord/colfind.h","src/src/textord/colpartition.h","src/src/textord/colpartitiongrid.h","src/src/textord/colpartitionset.h","src/src/textord/devanagari_processing.h","src/src/textord/drawtord.h","src/src/textord/edgblob.h","src/src/textord/edgloop.h","src/src/textord/equationdetectbase.h","src/src/textord/fpchop.h","src/src/textord/gap_map.h","src/src/textord/imagefind.h","src/src/textord/linefind.h","src/src/textord/makerow.h","src/src/textord/oldbasel.h","src/src/textord/pithsync.h","src/src/textord/pitsync1.h","src/src/textord/scanedg.h","src/src/textord/sortflts.h","src/src/textord/strokewidth.h","src/src/textord/tabfind.h","src/src/textord/tablefind.h","src/src/textord/tablerecog.h","src/src/textord/tabvector.h","src/src/textord/textlineprojection.h","src/src/textord/textord.h","src/src/textord/topitch.h","src/src/textord/tordmain.h","src/src/textord/tovars.h","src/src/textord/underlin.h","src/src/textord/wordseg.h","src/src/textord/workingpartset.h","src/src/viewer/scrollview.h","src/src/viewer/svmnode.h","src/src/viewer/svutil.h","src/src/wordrec/associate.h","src/src/wordrec/chop.h","src/src/wordrec/drawfx.h","src/src/wordrec/findseam.h","src/src/wordrec/language_model.h","src/src/wordrec/lm_consistency.h","src/src/wordrec/lm_pain_points.h","src/src/wordrec/lm_state.h","src/src/wordrec/measure.h","src/src/wordrec/outlines.h","src/src/wordrec/params_model.h","src/src/wordrec/plotedges.h","src/src/wordrec/render.h","src/src/wordrec/wordrec.h","common.h"]}],"fullName":"libtesseract.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -ldl -llog -ljnigraphics E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64\\libleptonica.so -llog -ljnigraphics E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64\\libjpeg.so E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64\\libpng.so -lz -latomic -lm","linkerLanguage":"CXX","name":"tesseract","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract","sysroot":"C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/build/intermediates/cmake/standardDebug/obj/x86_64/libjpeg.so"],"buildDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libjpeg","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["jpeg_EXPORTS"],"isGenerated":false,"language":"C","sources":["src/jaricom.c","src/jcapimin.c","src/jcapistd.c","src/jcarith.c","src/jccoefct.c","src/jccolor.c","src/jcdctmgr.c","src/jchuff.c","src/jcinit.c","src/jcmainct.c","src/jcmarker.c","src/jcmaster.c","src/jcomapi.c","src/jcparam.c","src/jcprepct.c","src/jcsample.c","src/jctrans.c","src/jdapimin.c","src/jdapistd.c","src/jdarith.c","src/jdatadst.c","src/jdatasrc.c","src/jdcoefct.c","src/jdcolor.c","src/jddctmgr.c","src/jdhuff.c","src/jdinput.c","src/jdmainct.c","src/jdmarker.c","src/jdmaster.c","src/jdmerge.c","src/jdpostct.c","src/jdsample.c","src/jdtrans.c","src/jerror.c","src/jfdctflt.c","src/jfdctfst.c","src/jfdctint.c","src/jidctflt.c","src/jidctfst.c","src/jidctint.c","src/jquant1.c","src/jquant2.c","src/jutils.c","src/jmemmgr.c","src/jmemansi.c"]}],"fullName":"libjpeg.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -lm","linkerLanguage":"C","name":"jpeg","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/libjpeg","sysroot":"C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/build/intermediates/cmake/standardDebug/obj/x86_64/libpng.so"],"buildDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/libpng","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["png_EXPORTS"],"isGenerated":false,"language":"C","sources":["src/png.c","src/pngerror.c","src/pngget.c","src/pngmem.c","src/pngpread.c","src/pngread.c","src/pngrio.c","src/pngrtran.c","src/pngrutil.c","src/pngset.c","src/pngtrans.c","src/pngwio.c","src/pngwrite.c","src/pngwtran.c","src/pngwutil.c","src/arm/arm_init.c","src/arm/filter_neon_intrinsics.c","src/arm/palette_neon_intrinsics.c"]}],"fullName":"libpng.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lz -latomic -lm","linkerLanguage":"C","name":"png","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/libpng","sysroot":"C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/build/intermediates/cmake/standardDebug/obj/x86_64/libleptonica.so"],"buildDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/standardDebug/x86_64/leptonica","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -Wno-address-of-packed-member","defines":["ANDROID_BUILD","HAVE_LIBJPEG=1","HAVE_LIBPNG=1","HAVE_LIBZ=1","leptonica_EXPORTS"],"includePath":[{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/src/src"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libjpeg/src"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libpng/src"}],"isGenerated":false,"language":"C","sources":["src/src/adaptmap.c","src/src/affine.c","src/src/affinecompose.c","src/src/arrayaccess.c","src/src/bardecode.c","src/src/baseline.c","src/src/bbuffer.c","src/src/bilateral.c","src/src/bilinear.c","src/src/binarize.c","src/src/binexpand.c","src/src/binreduce.c","src/src/blend.c","src/src/bmf.c","src/src/bmpio.c","src/src/bmpiostub.c","src/src/bootnumgen1.c","src/src/bootnumgen2.c","src/src/bootnumgen3.c","src/src/bootnumgen4.c","src/src/boxbasic.c","src/src/boxfunc1.c","src/src/boxfunc2.c","src/src/boxfunc3.c","src/src/boxfunc4.c","src/src/boxfunc5.c","src/src/bytearray.c","src/src/ccbord.c","src/src/ccthin.c","src/src/checkerboard.c","src/src/classapp.c","src/src/colorcontent.c","src/src/colorfill.c","src/src/coloring.c","src/src/colormap.c","src/src/colormorph.c","src/src/colorquant1.c","src/src/colorquant2.c","src/src/colorseg.c","src/src/colorspace.c","src/src/compare.c","src/src/conncomp.c","src/src/convertfiles.c","src/src/convolve.c","src/src/correlscore.c","src/src/dewarp1.c","src/src/dewarp2.c","src/src/dewarp3.c","src/src/dewarp4.c","src/src/dnabasic.c","src/src/dnafunc1.c","src/src/dnahash.c","src/src/dwacomb.2.c","src/src/dwacomblow.2.c","src/src/edge.c","src/src/encoding.c","src/src/enhance.c","src/src/fhmtauto.c","src/src/fhmtgen.1.c","src/src/fhmtgenlow.1.c","src/src/finditalic.c","src/src/flipdetect.c","src/src/fmorphauto.c","src/src/fmorphgen.1.c","src/src/fmorphgenlow.1.c","src/src/fpix1.c","src/src/fpix2.c","src/src/gifio.c","src/src/gifiostub.c","src/src/gplot.c","src/src/graphics.c","src/src/graymorph.c","src/src/grayquant.c","src/src/hashmap.c","src/src/heap.c","src/src/jbclass.c","src/src/jp2kheader.c","src/src/jp2kheaderstub.c","src/src/jp2kio.c","src/src/jp2kiostub.c","src/src/jpegio.c","src/src/jpegiostub.c","src/src/kernel.c","src/src/leptwin.c","src/src/libversions.c","src/src/list.c","src/src/map.c","src/src/maze.c","src/src/morph.c","src/src/morphapp.c","src/src/morphdwa.c","src/src/morphseq.c","src/src/numabasic.c","src/src/numafunc1.c","src/src/numafunc2.c","src/src/pageseg.c","src/src/paintcmap.c","src/src/parseprotos.c","src/src/partify.c","src/src/partition.c","src/src/pdfio1.c","src/src/pdfio1stub.c","src/src/pdfio2.c","src/src/pdfio2stub.c","src/src/pix1.c","src/src/pix2.c","src/src/pix3.c","src/src/pix4.c","src/src/pix5.c","src/src/pixabasic.c","src/src/pixacc.c","src/src/pixafunc1.c","src/src/pixafunc2.c","src/src/pixalloc.c","src/src/pixarith.c","src/src/pixcomp.c","src/src/pixconv.c","src/src/pixlabel.c","src/src/pixtiling.c","src/src/pngio.c","src/src/pngiostub.c","src/src/pnmio.c","src/src/pnmiostub.c","src/src/projective.c","src/src/psio1.c","src/src/psio1stub.c","src/src/psio2.c","src/src/psio2stub.c","src/src/ptabasic.c","src/src/ptafunc1.c","src/src/ptafunc2.c","src/src/ptra.c","src/src/quadtree.c","src/src/queue.c","src/src/rank.c","src/src/rbtree.c","src/src/readbarcode.c","src/src/readfile.c","src/src/recogbasic.c","src/src/recogdid.c","src/src/recogident.c","src/src/recogtrain.c","src/src/regutils.c","src/src/rop.c","src/src/roplow.c","src/src/rotate.c","src/src/rotateam.c","src/src/rotateorth.c","src/src/rotateshear.c","src/src/runlength.c","src/src/sarray1.c","src/src/sarray2.c","src/src/scale1.c","src/src/scale2.c","src/src/seedfill.c","src/src/sel1.c","src/src/sel2.c","src/src/selgen.c","src/src/shear.c","src/src/skew.c","src/src/spixio.c","src/src/stack.c","src/src/stringcode.c","src/src/strokes.c","src/src/sudoku.c","src/src/textops.c","src/src/tiffio.c","src/src/tiffiostub.c","src/src/utils1.c","src/src/utils2.c","src/src/warper.c","src/src/watershed.c","src/src/webpanimio.c","src/src/webpanimiostub.c","src/src/webpio.c","src/src/webpiostub.c","src/src/writefile.c","src/src/zlibmem.c","src/src/zlibmemstub.c"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -Wno-address-of-packed-member","defines":["ANDROID_BUILD","HAVE_LIBJPEG=1","HAVE_LIBPNG=1","HAVE_LIBZ=1","leptonica_EXPORTS"],"includePath":[{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/src/src"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libjpeg/src"},{"path":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica/../libpng/src"}],"isGenerated":false,"language":"CXX","sources":["box.cpp","boxa.cpp","jni.cpp","pix.cpp","pixa.cpp","readfile.cpp","utilities.cpp","writefile.cpp"]},{"isGenerated":false,"sources":["src/src/allheaders.h","src/src/alltypes.h","src/src/array.h","src/src/arrayaccess.h","src/src/bbuffer.h","src/src/bilateral.h","src/src/bmf.h","src/src/bmfdata.h","src/src/bmp.h","src/src/ccbord.h","src/src/colorfill.h","src/src/dewarp.h","src/src/endianness.h","src/src/environ.h","src/src/gplot.h","src/src/hashmap.h","src/src/heap.h","src/src/imageio.h","src/src/jbclass.h","src/src/leptwin.h","src/src/list.h","src/src/morph.h","src/src/pix.h","src/src/ptra.h","src/src/queue.h","src/src/rbtree.h","src/src/readbarcode.h","src/src/recog.h","src/src/regutils.h","src/src/stack.h","src/src/stringcode.h","src/src/sudoku.h","src/src/watershed.h","common.h"]}],"fullName":"libleptonica.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-llog -ljnigraphics -lz E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64\\libjpeg.so E:\\Projects\\Document-Scanner-master\\Document-Scanner-master\\tesseract\\build\\intermediates\\cmake\\standardDebug\\obj\\x86_64\\libpng.so -lz -latomic -lm","linkerLanguage":"CXX","name":"leptonica","sourceDirectory":"E:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/leptonica","sysroot":"C:/Users/ASUS/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

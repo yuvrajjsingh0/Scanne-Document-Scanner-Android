@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">Aplicar</string>
+
+    <string name="lbl_cancel">Cancelar</string>
+    <string name="lbl_delete">Eliminar</string>
+    <string name="lbl_left">Izquierda</string>
+    <string name="lbl_right">Derecha</string>
+    <string name="lbl_crop">Recortar</string>
+    <string name="lbl_camera_unavailable">La cámara no está disponible (en uso o no existe).\nCierre las aplicaciones que pueden usar la cámara.</string>
+    <string name="lbl_zoom_ratio_value">Zoom: %1.2fx</string>
+    <string name="lbl_open_photo_preview">Abrir foto de vista previa después de la toma</string>
+    <string name="lbl_settings">Configuración</string>
+    <string name="lbl_hdr">HDR</string>
+    <string name="lbl_close">Cerrar</string>
+    <string name="lbl_focus_mode">Modo de enfoque</string>
+    <string name="lbl_ratio">Proporción</string>
+    <string name="lbl_quality">Calidad</string>
+    <string name="lbl_take_another">Tomar otro</string>
+    <string name="lbl_photo_crop">Recorte de fotos</string>
+    <string name="lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">Original</string>
+    <string name="magic_color">Color Mágico</string>
+    <string name="gray_mode">Modo gris</string>
+    <string name="b_amp_w"><![CDATA[B&N]]></string>
+    <string name="single_mode">Modo Único</string>
+    <string name="batch_mode">Modo por lotes</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+
+    <string name="import_from_gallery">Importar desde galería</string>
+    <string name="rate_us">Califícanos</string>
+    <string name="enter_name">Ingrese el nombre…</string>
+    <string name="generate_pdf">Generar PDF</string>
+    <string name="share_pdf">Compartir PDF</string>
+    <string name="share_pdf_ocr">Compartir PDF (OCR)</string>
+    <string name="share_images">Compartir imágenes</string>
+    <string name="love_our_document_scanner">¿Te encanta este escáner de documentos?</string>
+
+    <string name="upgrade_pro_message">Considere actualizarse a PRO</string>
+
+    <string name="lifetime">De por vida</string>
+    <string name="yearly">Anual</string>
+    <string name="monthly">Mensual</string>
+    
+    <string name="downloading">Descargando…</string>
+
+    <!-- Teseracto -->
+    <string name="downloading_language">Descargando datos de idioma…</string>
+    <string name="percentage_downloaded">% del total:</string>
+    <string name="you_are_not_connected_to_internet">No estás conectado a Internet</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="download_description">Para que la función OCR funcione correctamente, es necesario descargar algunos datos adicionales en su dispositivo.\n¿Desea descargar los datos del idioma seleccionado (%s)? Puede descargar más idiomas desde la configuración de la aplicación</string>
+    <string name="training_data_missing">¡Faltan datos de idioma!</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="create_new">Crear nuevo</string>
+    <string name="documents_list_empty">Su lista de documentos está vacía</string>
+    <string name="no_notes_exists">¡No existen notas!</string>
+    <string name="backup_now">Copia de seguridad ahora</string>
+    <string name="restore_backup">Restaurar copia de seguridad</string>
+    <string name="backup_message_sync">Copia de seguridad de sus documentos escaneados fácilmente en Google Drive con sincronización perfecta</string>
+    <string name="back">Atrás</string>
+    <string name="ocr">OCR</string>
+    <string name="image">Imagen</string>
+    <string name="select_from_gallery">Seleccionar de la galería</string>
+    <string name="open_camera">Abrir cámara</string>
+    <string name="start_sync">Iniciar sincronización</string>
+    <string name="document_1">Documento 1</string>
+    <string name="rate_us_txt">No olvides calificarnos.</string>
+
+    <string name="rate_us_desc">Presione SÍ para calificar o NO para salir</string>
+    <string name="pro_member_message">¡Eres miembro PRO!</string>
+    <string name="req_cam_access_message">Escanear requiere acceso a la cámara</string>
+    <string name="req_storage_access_message">Escanear requiere acceso al almacenamiento</string>
+    <string name="req_media_access_message">Escanear requiere acceso a los medios</string>
+    <string name="req_storage_cam_access_message">Scanne necesita permisos de almacenamiento y cámara para funcionar</string>
+    <string name="watch_ads_message">Necesita ver el anuncio de video para continuar</string>
+
+    <string name="premium_feature">Característica Premium</string>
+    <string name="upgrade_pro_prompt">Actualice a PRO</string>
+    <string name="please_wait">Por favor espere…</string>
+    <string name="created_success_accuracy">Creado correctamente con precisión: %s</string>
+    <string name="error_occurred">Ocurrió un error</string>
+    <string name="already_logged_message">Ya inició sesión como %s</string>
+    <string name="scan_count">Escanear %s</string>
+    <string name="docs_count">%s Documentos</string>
+    <string name="delete_alert_title">Eliminar documento</string>
+    <string name="delete_alert_message">¿Está seguro de que desea eliminar?</string>
+    <string name="rename_doc">Renombrar documento</string>
+
+
+    <string name="enter_valid_name">Ingrese un nombre válido</string>
+    <string name="starting_sync">Iniciando sincronización</string>
+    <string name="error">Error</string>
+    <string name="sync_error">Ocurrió un error al sincronizar archivos con Google Drive</string>
+    <string name="success">Éxito</string>
+    <string name="sync_success">La sincronización de archivos con Google Drive fue exitosa</string>
+    <string name="fetching_data">Obteniendo datos del servidor</string>
+    <string name="share_notes">Compartir notas…</string>
+
+    <string name="downloading_lang">Descargando Idiomas</string>
+
+    <string name="total_lang_d_ct">Un total de %s idiomas</string>
+    <string name="download_failed">Descarga fallida</string>
+    <string name="download_failed_lang">Error al descargar el idioma dado: %s</string>
+    <string name="downloaded_num_lang">%s idiomas descargados</string>
+    <string name="downloading_n">Descargando %s</string>
+    <string name="creating_pdf">Preparando un hermoso PDF para ti</string>
+
+    <string name="logged_out_message">Se ha cerrado la sesión</string>
+    <string name="lang_downloaded">Idiomas descargados correctamente</string>
+    <string name="languages">Idiomas</string>
+    <string name="get_langs">Obtener más idiomas</string>
+    <string name="look_n_feel">Mira y siente</string>
+    <string name="theme">Tema</string>
+    <string name="theme_desc">Cambiar entre modo oscuro y claro</string>
+    <string name="more">Más</string>
+    <string name="about_us">Acerca de nosotros</string>
+    <string name="about_us_desc">Conoce más sobre nosotros</string>
+    <string name="contact_us">Contáctenos</string>
+    <string name="contact_us_desc">Contáctenos para cualquier consulta relacionada con pagos o reembolsos</string>
+    <string name="leave_feedback">Deja un comentario</string>
+    <string name="leave_feedback_desc">Informar problemas técnicos o sugerir nuevas funciones</string>
+    <string name="rotation">Rotación</string>
+    <string name="opacity">Opacidad</string>
+    <string name="brush">Pincel</string>
+    <string name="label_brush">Cepillo</string>
+
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Pegatina</string>
+    <string name="label_eraser">Borrador</string>
+    <string name="label_eraser_mode">Modo Borrador</string>
+    <string name="label_text">Texto</string>
+    <string name="label_filter">Filtro</string>
+    <string name="label_adjust">Ajustar</string>
+    <string name="msg_save_image">¿Salir sin guardar la imagen?</string>
+    <string name="msg_save_image_to_share">Guarde la imagen para compartir</string>
+    <string name="msg_share_image">Compartir imagen</string>
+    <string name="save">Guardar</string>
+
+    <string name="dontsave">No guardar</string>
+    <string name="no_signature_msg">No tienes ninguna firma. Toque para agregar uno</string>
+
+    <string name="sign">Firmar</string>
+
+    <string name="crop_image_menu_rotate_right">Derecha</string>
+    <string name="crop_image_menu_rotate_left">Izquierda</string>
+</resources>

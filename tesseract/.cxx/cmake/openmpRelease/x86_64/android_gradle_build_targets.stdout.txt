@@ -1,0 +1,973 @@
+ninja: Entering directory `E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\.cxx\cmake\openmpRelease\x86_64'
+[1/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixtiling.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[2/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pngiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[3/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixlabel.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[4/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/morphapp.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[5/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/morphdwa.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[6/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixcomp.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[7/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pngio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[8/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixarith.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[9/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/morphseq.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[10/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pageseg.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[11/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/partition.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[12/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/parseprotos.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[13/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pdfio1stub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[14/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/numafunc2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[15/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/numabasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[16/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pdfio1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[17/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/partify.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[18/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/paintcmap.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[19/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixconv.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[20/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/numafunc1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[21/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pdfio2stub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[22/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pdfio2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[23/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixacc.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[24/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixalloc.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[25/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pix1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[26/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pnmiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[27/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/psio1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[28/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pix3.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[29/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pix5.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[30/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixabasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[31/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pix4.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[32/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pix2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[33/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixafunc2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[34/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/psio1stub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[35/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pixafunc1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[36/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/psio2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[37/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/psio2stub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[38/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/queue.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[39/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/projective.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[40/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rank.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[41/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ptabasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[42/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ptafunc2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[43/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/pnmio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[44/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/quadtree.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[45/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ptra.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[46/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rbtree.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[47/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/recogbasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[48/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/readfile.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[49/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/readbarcode.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[50/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/regutils.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[51/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ptafunc1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[52/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/recogdid.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[53/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/runlength.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[54/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rotateshear.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[55/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/recogtrain.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[56/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rop.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[57/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/recogident.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[58/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rotate.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[59/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rotateorth.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[60/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/rotateam.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[61/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/sarray2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[62/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/spixio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[63/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/skew.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[64/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/sarray1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[65/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/shear.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[66/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/sel2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[67/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/tiffio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[68/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/stack.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[69/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/selgen.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[70/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/scale2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[71/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/tiffiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[72/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/stringcode.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[73/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/scale1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[74/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/sel1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[75/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/webpio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[76/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/strokes.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[77/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/webpanimio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[78/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/webpanimiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[79/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/seedfill.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[80/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/sudoku.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[81/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/textops.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[82/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/warper.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[83/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/webpiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[84/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/zlibmemstub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[85/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/zlibmem.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[86/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/roplow.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[87/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/watershed.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[88/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/utils1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[89/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/box.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[90/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/boxa.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[91/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/jni.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[92/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/writefile.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[93/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/pixa.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[94/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/utils2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[95/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/utilities.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[96/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/readfile.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[97/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/pix.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[98/488] Building CXX object leptonica/CMakeFiles/leptonica.dir/writefile.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[99/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/arch/dotproduct.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[100/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/arch/intsimdmatrix.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[101/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/arch/simddetect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[102/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/capi.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[103/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/altorenderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[104/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/renderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[105/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/wordstrboxrenderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[106/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/lstmboxrenderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[107/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/pdfrenderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[108/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/hocrrenderer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[109/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/adaptions.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[110/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/fixspace.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[111/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/docqual.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[112/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/applybox.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[113/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/linerec.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[114/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/api/baseapi.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[115/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/fixxht.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[116/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/equationdetect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[117/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/output.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[118/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/mutableiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[119/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/pagewalk.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[120/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/ltrresultiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[121/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/pagesegmain.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[122/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/par_control.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[123/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/pageiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[124/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/control.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[125/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/osdetect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[126/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/paramsd.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[127/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/pgedit.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[128/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/tessvars.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[129/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/recogtraining.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[130/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/blread.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[131/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/werdit.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[132/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/tessbox.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[133/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/thresholder.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[134/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/resultiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[135/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/tfacepp.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[136/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/reject.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[137/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/blamer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[138/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/boxword.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[139/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/superscript.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[140/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/tessedit.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[141/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/dppoint.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[142/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/linlsq.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[143/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/matrix.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[144/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/blobbox.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[145/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/paragraphs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[146/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/fontinfo.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[147/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/coutln.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[148/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/detlinefit.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[149/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/blobs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[150/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/mod128.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[151/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/boxread.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[152/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/imagedata.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[153/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/ocrpara.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[154/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/otsuthr.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[155/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/params_training_featdef.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[156/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/ccstruct.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[157/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/ocrrow.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[158/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/publictypes.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[159/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/quadlsq.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[160/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/ocrblock.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[161/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/quspline.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[162/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/normalis.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[163/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/points.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[164/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/polyblk.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[165/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/pdblock.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[166/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/rect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[167/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/polyaprx.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[168/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/seam.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[169/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/ratngs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[170/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/stepblob.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[171/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/errcode.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[172/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/rejctmap.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[173/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/pageres.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[174/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/split.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[175/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/elst2.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[176/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/ambigs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[177/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/werd.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[178/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/globaloc.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[179/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccstruct/statistc.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[180/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/bitvector.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[181/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/ccutil.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[182/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/elst.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[183/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/clst.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[184/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/indexmapbidi.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[185/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/scanutils.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[186/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/unicodes.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[187/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/tprintf.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[188/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/tessdatamanager.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[189/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/universalambigs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[190/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/serialis.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[191/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/unichar.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[192/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/mainblk.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[193/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/strngs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[194/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccmain/tesseractclass.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[195/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/unicharmap.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[196/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/adaptive.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[197/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/params.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[198/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/blobclass.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[199/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/blkocc.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[200/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/bbgrid.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[201/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/blobgrid.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[202/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/unicharcompress.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[203/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/ccnontextdetect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[204/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/adaptmatch.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[205/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/fpoint.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[206/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/ccutil/unicharset.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[207/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/classify.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[208/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/float2int.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[209/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/featdefs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[210/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/colfind.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[211/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intfeaturemap.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[212/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intfeaturedist.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[213/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/cjkpitch.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[214/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/clusttool.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[215/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/mf.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[216/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/colpartitiongrid.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[217/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/colpartition.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[218/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/kdtree.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[219/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intmatcher.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[220/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/cluster.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[221/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/cutoffs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[222/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/mfoutline.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[223/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/mfdefs.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[224/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/normfeat.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[225/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intfeaturespace.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[226/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/ocrfeatures.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[227/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intproto.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[228/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/mfx.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[229/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/picofeat.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[230/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/intfx.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[231/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/outfeat.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[232/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/cutil/emalloc.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[233/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/sampleiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[234/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/cutil/cutil_class.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[235/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/protos.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[236/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/shapeclassifier.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[237/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/cutil/callcpp.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[238/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/normmatch.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[239/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/cutil/oldlist.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[240/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/dawg_cache.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[241/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/tessclassifier.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[242/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/trainingsample.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[243/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/hyphen.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[244/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/context.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[245/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/shapetable.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[246/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/classify/trainingsampleset.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[247/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/dawg.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[248/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/permdawg.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[249/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/convolve.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[250/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/functions.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[251/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/stopper.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[252/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/ctc.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[253/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/input.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[254/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/trie.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[255/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/networkbuilder.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[256/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/fullyconnected.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[257/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/maxpool.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[258/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/tfnetwork.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[259/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/parallel.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[260/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/dict/dict.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[261/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/lstmrecognizer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[262/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/lstm.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[263/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/plumbing.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[264/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/network.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[265/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/stridemap.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[266/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/opencl/openclwrapper.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[267/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jaricom.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[268/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/series.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[269/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/reconfig.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[270/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/reversed.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[271/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcapistd.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[272/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/networkio.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[273/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcapimin.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[274/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/weightmatrix.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[275/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcarith.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[276/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jccoefct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[277/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jccolor.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[278/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcdctmgr.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[279/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/alignedblob.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[280/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcinit.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[281/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcmainct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[282/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcprepct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[283/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcomapi.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[284/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/lstmtrainer.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[285/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcparam.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[286/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdatadst.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[287/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcmaster.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[288/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jchuff.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[289/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/lstm/recodebeam.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[290/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdapistd.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[291/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcmarker.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[292/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jcsample.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[293/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jctrans.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[294/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdapimin.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[295/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdatasrc.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[296/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/baselinedetect.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[297/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jddctmgr.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[298/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdarith.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[299/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdmainct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[300/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdcoefct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[301/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdmerge.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[302/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdcolor.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[303/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdmaster.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[304/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdpostct.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[305/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdinput.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[306/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jfdctflt.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[307/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdtrans.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[308/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jerror.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[309/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdsample.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[310/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdhuff.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[311/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jfdctfst.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[312/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jidctfst.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[313/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jidctflt.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[314/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jutils.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[315/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jdmarker.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[316/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jmemmgr.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[317/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jmemansi.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[318/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jquant1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[319/488] Building C object libpng/CMakeFiles/png.dir/src/pngerror.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[320/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jquant2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[321/488] Building C object libpng/CMakeFiles/png.dir/src/pngset.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[322/488] Building C object libpng/CMakeFiles/png.dir/src/png.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[323/488] Building C object libpng/CMakeFiles/png.dir/src/pngget.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[324/488] Building C object libpng/CMakeFiles/png.dir/src/pngrio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[325/488] Building C object libpng/CMakeFiles/png.dir/src/pngtrans.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[326/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jfdctint.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[327/488] Building C object libpng/CMakeFiles/png.dir/src/pngmem.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[328/488] Building C object libpng/CMakeFiles/png.dir/src/pngpread.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[329/488] Building C object libpng/CMakeFiles/png.dir/src/pngwio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[330/488] Building C object libpng/CMakeFiles/png.dir/src/arm/palette_neon_intrinsics.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[331/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/adaptmap.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[332/488] Building C object libpng/CMakeFiles/png.dir/src/arm/filter_neon_intrinsics.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[333/488] Building C object libpng/CMakeFiles/png.dir/src/pngrutil.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[334/488] Building C object libjpeg/CMakeFiles/jpeg.dir/src/jidctint.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[335/488] Building C object libpng/CMakeFiles/png.dir/src/arm/arm_init.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[336/488] Building C object libpng/CMakeFiles/png.dir/src/pngwtran.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[337/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/arrayaccess.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[338/488] Building C object libpng/CMakeFiles/png.dir/src/pngwrite.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[339/488] Building C object libpng/CMakeFiles/png.dir/src/pngread.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[340/488] Linking C shared library E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\build\intermediates\cmake\openmpRelease\obj\x86_64\libjpeg.so
+[341/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/affine.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[342/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bilateral.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[343/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/affinecompose.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[344/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bilinear.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[345/488] Building C object libpng/CMakeFiles/png.dir/src/pngrtran.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[346/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bardecode.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[347/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bbuffer.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[348/488] Building C object libpng/CMakeFiles/png.dir/src/pngwutil.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[349/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/baseline.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[350/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bootnumgen3.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[351/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bootnumgen4.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[352/488] Linking C shared library E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\build\intermediates\cmake\openmpRelease\obj\x86_64\libpng.so
+[353/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bmpiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[354/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxfunc4.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[355/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/binarize.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[356/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxfunc2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[357/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/binreduce.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[358/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxfunc3.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[359/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bmpio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[360/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bmf.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[361/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bootnumgen1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[362/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bootnumgen2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[363/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxfunc1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[364/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxbasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[365/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/binexpand.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[366/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colormorph.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[367/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorseg.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[368/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/blend.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[369/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/bytearray.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[370/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ccthin.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[371/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/classapp.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[372/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/boxfunc5.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[373/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorquant2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[374/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorspace.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[375/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/checkerboard.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[376/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/compare.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[377/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colormap.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[378/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dwacomb.2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[379/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorquant1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[380/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/coloring.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[381/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorfill.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[382/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dnahash.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[383/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/colorcontent.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[384/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/ccbord.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[385/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/edge.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[386/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dnafunc1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[387/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/convertfiles.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[388/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/encoding.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[389/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dewarp3.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[390/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dewarp1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[391/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/conncomp.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[392/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/correlscore.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[393/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/enhance.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[394/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dewarp4.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[395/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/convolve.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[396/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dewarp2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[397/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fmorphauto.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[398/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dnabasic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[399/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/flipdetect.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[400/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fhmtgenlow.1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[401/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fmorphgen.1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[402/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/gifio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[403/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/finditalic.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[404/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fhmtgen.1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[405/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/gifiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[406/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/gplot.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[407/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fhmtauto.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[408/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fpix1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[409/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/libversions.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[410/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/map.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[411/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/list.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[412/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/graphics.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[413/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/leptwin.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[414/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/graymorph.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[415/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/kernel.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[416/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/grayquant.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[417/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/hashmap.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[418/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jp2kheader.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[419/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jp2kiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[420/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/maze.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[421/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jp2kio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[422/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fpix2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[423/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/morph.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[424/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jp2kheaderstub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[425/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/heap.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[426/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jpegiostub.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[427/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jbclass.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[428/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/jpegio.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[429/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/edgloop.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[430/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/equationdetectbase.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[431/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/drawtord.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[432/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/gap_map.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[433/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/dwacomblow.2.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[434/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/sortflts.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[435/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/scanedg.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[436/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/colpartitionset.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[437/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/fpchop.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[438/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/devanagari_processing.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[439/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/edgblob.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[440/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/linefind.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[441/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/pithsync.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[442/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/pitsync1.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[443/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/oldbasel.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[444/488] Building C object leptonica/CMakeFiles/leptonica.dir/src/src/fmorphgenlow.1.c.o
+clang: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[445/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/makerow.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[446/488] Linking CXX shared library E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\build\intermediates\cmake\openmpRelease\obj\x86_64\libleptonica.so
+[447/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tablerecog.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[448/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/imagefind.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[449/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tablefind.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[450/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tabfind.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[451/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/topitch.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[452/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/textord.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[453/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/textlineprojection.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[454/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/strokewidth.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[455/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/workingpartset.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[456/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tabvector.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[457/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/viewer/scrollview.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[458/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/underlin.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[459/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/viewer/svmnode.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[460/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/drawfx.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[461/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/gradechop.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[462/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/wordseg.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[463/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tovars.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[464/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/viewer/svpaint.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[465/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/findseam.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[466/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tospace.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[467/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/textord/tordmain.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[468/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/viewer/svutil.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[469/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/associate.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[470/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/chop.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[471/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/plotedges.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[472/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/lm_state.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[473/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/lm_pain_points.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[474/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/params_model.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[475/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/chopper.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[476/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/outlines.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[477/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/pieces.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[478/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/lm_consistency.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[479/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/tface.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[480/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/pageiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[481/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/wordclass.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[482/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/tessbaseapi.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[483/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/render.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[484/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/language_model.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[485/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/segsearch.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[486/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/resultiterator.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[487/488] Building CXX object tesseract/CMakeFiles/tesseract.dir/src/src/wordrec/wordrec.cpp.o
+clang++: warning: argument unused during compilation: '-static-openmp' [-Wunused-command-line-argument]
+[488/488] Linking CXX shared library E:\Projects\Document-Scanner-master\Document-Scanner-master\tesseract\build\intermediates\cmake\openmpRelease\obj\x86_64\libtesseract.so

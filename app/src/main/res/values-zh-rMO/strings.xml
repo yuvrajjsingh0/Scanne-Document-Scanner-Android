@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">應用</string>
+
+    <string name="lbl_cancel">取消</string>
+    <string name="lbl_delete">刪除</string>
+    <string name="lbl_left">左</string>
+    <string name="lbl_right">右</string>
+    <string name="lbl_crop">裁剪</string>
+    <string name="lbl_camera_unavailable">相機不可用（正在使用或不存在）。\n請關閉可能使用相機的應用。</string>
+    <string name="lbl_zoom_ratio_value">縮放：%1.2fx</string>
+    <string name="lbl_open_photo_preview">拍攝後打開預覽照片</string>
+    <string name="lbl_settings">設置</string>
+    <string name="lbl_hdr">HDR</string>
+    <string name="lbl_close">關閉</string>
+    <string name="lbl_focus_mode">對焦模式</string>
+    <string name="lbl_ratio">比率</string>
+    <string name="lbl_quality">質量</string>
+    <string name="lbl_take_another">再拿一個</string>
+    <string name="lbl_photo_crop">照片裁剪</string>
+    <string name="lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">原創</string>
+    <string name="magic_color">魔幻色彩</string>
+    <string name="gray_mode">灰度模式</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name="single_mode">單一模式</string>
+    <string name="batch_mode">批處理模式</string>
+    <string name="hello_blank_fragment">你好空白片段</string>
+
+    <string name="import_from_gallery">從圖庫導入</string>
+    <string name="rate_us">評價我們</string>
+    <string name="enter_name">輸入名稱…</string>
+    <string name="generate_pdf">生成 PDF</string>
+    <string name="share_pdf">共享 PDF</string>
+    <string name="share_pdf_ocr">共享 PDF (OCR)</string>
+    <string name="share_images">分享圖片</string>
+    <string name="love_our_document_scanner">喜歡這款文檔掃描儀嗎？</string>
+
+    <string name="upgrade_pro_message">考慮將自己升級到 PRO</string>
+
+    <string name="lifetime">生命週期</string>
+    <string name="yearly">每年</string>
+    <string name="monthly">每月</string>
+    <string name="downloading">正在下載…</string>
+
+    <!-- 正方體 -->
+    <string name="downloading_language">正在下載語言數據…</string>
+    <string name="percentage_downloaded">佔總數的百分比：</string>
+    <string name="you_are_not_connected_to_internet">你沒有連接到互聯網</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="download_description">為使 OCR 功能正常運行，需要將一些附加數據下載到您的設備。\n您要下載所選語言 (%s) 的數據嗎？您可以從應用設置中下載更多語言</string>
+    <string name="training_data_missing">語言數據丟失！</string>
+    <string name="select_language">選擇語言</string>
+    <string name="create_new">新建</string>
+    <string name="documents_list_empty">您的文檔列表為空</string>
+    <string name="no_notes_exists">沒有筆記存在！</string>
+    <string name="backup_now">立即備份</string>
+    <string name="restore_backup">恢復備份</string>
+    <string name="backup_message_sync">通過無縫同步在 Google Drive 上輕鬆備份您的掃描文檔</string>
+    <string name="back">返回</string>
+    <string name="ocr">OCR</string>
+    <string name="image">圖片</string>
+    <string name="select_from_gallery">從圖庫中選擇</string>
+    <string name="open_camera">打開相機</string>
+    <string name="start_sync">開始同步</string>
+    <string name="document_1">文檔 1</string>
+    <string name="rate_us_txt">別忘了給我們評分。</string>
+
+    <string name="rate_us_desc">按 YES 評分或按 NO 退出</string>
+    <string name="pro_member_message">您是 PRO 會員！</string>
+    <string name="req_cam_access_message">掃描需要訪問相機</string>
+    <string name="req_storage_access_message">掃描需要訪問存儲</string>
+    <string name="req_media_access_message">掃描需要訪問媒體</string>
+    <string name="req_storage_cam_access_message">掃描需要存儲和相機權限才能工作</string>
+    <string name="watch_ads_message">您需要觀看視頻廣告才能繼續</string>
+
+    <string name="premium_feature">高級功能</string>
+    <string name="upgrade_pro_prompt">請升級到 PRO</string>
+    <string name="please_wait">請稍候……</string>
+    <string name="created_success_accuracy">成功創建，準確度：%s</string>
+    <string name="error_occurred">發生錯誤</string>
+    <string name="already_logged_message">已經作為 %s 登錄</string>
+    <string name="scan_count">掃描 %s</string>
+    <string name="docs_count">%s 文檔</string>
+    <string name="delete_alert_title">刪除文檔</string>
+    <string name="delete_alert_message">確定要刪除嗎？</string>
+    <string name="rename_doc">重命名文檔</string>
+
+    <string name="enter_valid_name">請輸入一個有效的名字</string>
+    <string name="starting_sync">開始同步</string>
+    <string name="error">錯誤</string>
+    <string name="sync_error">與 Google Drive 同步文件時出錯</string>
+    <string name="success">成功</string>
+    <string name="sync_success">與 Google Drive 同步文件成功</string>
+    <string name="fetching_data">從服務器獲取數據</string>
+    <string name="share_notes">分享筆記…</string>
+
+    <string name="downloading_lang">下載語言</string>
+
+    <string name="total_lang_d_ct">總共 %s 種語言</string>
+    <string name="download_failed">下載失敗</string>
+    <string name="download_failed_lang">給定語言下載失敗：%s</string>
+    <string name="downloaded_num_lang">已下載的 %s 種語言</string>
+    <string name="downloading_n">正在下載 %s</string>
+    <string name="creating_pdf">為你製作精美的 PDF</string>
+
+    <string name="logged_out_message">您已登出</string>
+    <string name="lang_downloaded">語言下載成功</string>
+    <string name="languages">語言</string>
+    <string name="get_langs">獲取更多語言</string>
+    <string name="look_n_feel">外觀</string>
+    <string name="theme">主題</string>
+    <string name="theme_desc">在明暗模式之間切換</string>
+    <string name="more">更多</string>
+    <string name="about_us">關於我們</string>
+    <string name="about_us_desc">了解更多</string>
+    <string name="contact_us">聯繫我們</string>
+    <string name="contact_us_desc">如有任何付款或退款相關查詢，請聯繫我們</string>
+    <string name="leave_feedback">留下反饋</string>
+    <string name="leave_feedback_desc">報告技術問題或建議新功能</string>
+    <string name="rotation">旋轉</string>
+    <string name="opacity">不透明度</string>
+    <string name="brush">畫筆</string>
+    <string name="label_brush">畫筆</string>
+
+    <string name="label_emoji">表情符號</string>
+    <string name="label_sticker">貼紙</string>
+    <string name="label_eraser">橡皮擦</string>
+    <string name="label_eraser_mode">橡皮擦模式</string>
+    <string name="label_text">文本</string>
+    <string name="label_filter">過濾器</string>
+    <string name="label_adjust">調整</string>
+    <string name="msg_save_image">不保存圖片退出？</string>
+    <string name="msg_save_image_to_share">請保存圖片分享</string>
+    <string name="msg_share_image">分享圖片</string>
+    <string name="save">保存</string>
+
+    <string name="dontsave">不保存</string>
+    <string name="no_signature_msg">您沒有任何簽名。點擊添加一個</string>
+
+    <string name="sign">簽名</string>
+
+    <string name="crop_image_menu_rotate_right">右</string>
+    <string name="crop_image_menu_rotate_left">左</string>
+</resources>

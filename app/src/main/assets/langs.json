@@ -1,0 +1,227 @@
+[
+    {
+        "alpha3-b": "afr",
+        "alpha2": "af",
+        "English": "Afrikaans"
+    },
+    {
+        "alpha3-b": "amh",
+        "alpha2": "am",
+        "English": "Amharic"
+    },
+    {
+        "alpha3-b": "ara",
+        "alpha2": "ar",
+        "English": "Arabic"
+    },
+    {
+        "alpha3-b": "asm",
+        "alpha2": "as",
+        "English": "Assamese"
+      },
+      {
+        "alpha3-b": "aze",
+        "alpha2": "az",
+        "English": "Azerbaijani"
+      },
+      {
+        "alpha3-b": "bel",
+        "alpha2": "be",
+        "English": "Belarusian"
+      },
+      {
+        "alpha3-b": "ben",
+        "alpha2": "bn",
+        "English": "Bengali"
+      },
+      {
+        "alpha3-b": "bos",
+        "alpha2": "bs",
+        "English": "Bosnian"
+      },
+      {
+        "alpha3-b": "bre",
+        "alpha2": "br",
+        "English": "Breton"
+      },
+      {
+        "alpha3-b": "bul",
+        "alpha2": "bg",
+        "English": "Bulgarian"
+      },
+      {
+        "alpha3-b": "cat",
+        "alpha2": "ca",
+        "English": "Catalan; Valencian"
+      },
+      {
+        "alpha3-b": "cos",
+        "alpha2": "co",
+        "English": "Corsican"
+      },
+      {
+        "alpha3-b": "dan",
+        "alpha2": "da",
+        "English": "Danish"
+      },
+      {
+        "alpha3-b": "div",
+        "alpha2": "dv",
+        "English": "Divehi; Dhivehi; Maldivian"
+      },
+      {
+        "alpha3-b": "dzo",
+        "alpha2": "dz",
+        "English": "Dzongkha"
+      },
+      {
+        "alpha3-b": "eng",
+        "alpha2": "en",
+        "English": "English"
+      },
+      {
+        "alpha3-b": "epo",
+        "alpha2": "eo",
+        "English": "Esperanto"
+      },
+      {
+        "alpha3-b": "est",
+        "alpha2": "et",
+        "English": "Estonian"
+      },
+      {
+        "alpha3-b": "fao",
+        "alpha2": "fo",
+        "English": "Faroese"
+      },
+      {
+        "alpha3-b": "fin",
+        "alpha2": "fi",
+        "English": "Finnish"
+      },
+      {
+        "alpha3-b": "gle",
+        "alpha2": "ga",
+        "English": "Irish"
+      },
+      {
+        "alpha3-b": "guj",
+        "alpha2": "gu",
+        "English": "Gujarati"
+      },
+      {
+        "alpha3-b": "deu",
+        "alpha2": "de",
+        "English": "German"
+      },
+      {
+        "alpha3-b": "hat",
+        "alpha2": "ht",
+        "English": "Haitian; Haitian Creole"
+      },
+      {
+        "alpha3-b": "heb",
+        "alpha2": "he",
+        "English": "Hebrew"
+      },
+      {
+        "alpha3-b": "hin",
+        "alpha2": "hi",
+        "English": "Hindi"
+      },
+      {
+        "alpha3-b": "hrv",
+        "alpha2": "hr",
+        "English": "Croatian"
+      },
+      {
+        "alpha3-b": "hun",
+        "alpha2": "hu",
+        "English": "Hungarian"
+      },
+      {
+        "alpha3-b": "ind",
+        "alpha2": "id",
+        "English": "Indonesian"
+      },
+      {
+        "alpha3-b": "ita",
+        "alpha2": "it",
+        "English": "Italian"
+      },
+      {
+        "alpha3-b": "jav",
+        "alpha2": "jv",
+        "English": "Javanese"
+      },
+      {
+        "alpha3-b": "jpn",
+        "alpha2": "ja",
+        "English": "Japanese"
+      },
+      {
+        "alpha3-b": "kan",
+        "alpha2": "kn",
+        "English": "Kannada"
+      },
+      {
+        "alpha3-b": "kor",
+        "alpha2": "ko",
+        "English": "Korean"
+      },
+      {
+        "alpha3-b": "mal",
+        "alpha2": "ml",
+        "English": "Malayalam"
+      },
+      {
+        "alpha3-b": "mar",
+        "alpha2": "mr",
+        "English": "Marathi"
+      },
+      {
+        "alpha3-b": "nep",
+        "alpha2": "ne",
+        "English": "Nepali"
+      },
+      {
+        "alpha3-b": "pan",
+        "alpha2": "pa",
+        "English": "Punjabi"
+      },
+      {
+        "alpha3-b": "pol",
+        "alpha2": "pl",
+        "English": "Polish"
+      },
+      {
+        "alpha3-b": "por",
+        "alpha2": "pt",
+        "English": "Portuguese"
+      },
+      {
+        "alpha3-b": "rus",
+        "alpha2": "ru",
+        "English": "Russian"
+      },
+      {
+        "alpha3-b": "san",
+        "alpha2": "sa",
+        "English": "Sanskrit"
+      },
+      {
+        "alpha3-b": "spa",
+        "alpha2": "es",
+        "English": "Spanish; Castilian"
+      },
+      {
+        "alpha3-b": "tel",
+        "alpha2": "te",
+        "English": "Telugu"
+      },
+      {
+        "alpha3-b": "urd",
+        "alpha2": "ur",
+        "English": "Urdu"
+      }
+]

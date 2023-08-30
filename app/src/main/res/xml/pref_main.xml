@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/ocr">
+        <MultiSelectListPreference
+            android:key="ocr_lang"
+            android:title="@string/languages"
+            android:summary="Get More Languages"
+            android:icon="@drawable/ic_baseline_language_24" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/look_n_feel">
+        <androidx.preference.ListPreference
+            android:key="theme_sel"
+            android:title="@string/theme"
+            android:summary="@string/theme_desc"
+            android:icon="@drawable/ic_baseline_brightness_medium_24" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/more">
+        <Preference
+            android:key="about_us"
+            android:title="@string/about_us"
+            android:summary="@string/about_us_desc"/>
+        <Preference
+            android:key="contact_us"
+            android:title="@string/contact_us"
+            android:summary="@string/contact_us_desc"/>
+        <Preference
+            android:key="feedback"
+            android:title="@string/leave_feedback"
+            android:summary="@string/leave_feedback_desc"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

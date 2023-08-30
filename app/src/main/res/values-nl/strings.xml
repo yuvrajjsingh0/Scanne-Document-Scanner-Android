@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">Toepassen</string>
+
+    <string name="lbl_cancel">Annuleren</string>
+    <string name="lbl_delete">Verwijderen</string>
+    <string name="lbl_left">Links</string>
+    <string name="lbl_right">Rechts</string>
+    <string name="lbl_crop">Bijsnijden</string>
+    <string name="lbl_camera_unavailable">Camera is niet beschikbaar (in gebruik of bestaat niet).\nSluit de apps die camera kunnen gebruiken.</string>
+    <string name="lbl_zoom_ratio_value">Zoom: %1.2fx</string>
+    <string name="lbl_open_photo_preview">Open voorbeeldfoto na opname</string>
+    <string name="lbl_settings">Instellingen</string>
+    <string name="lbl_hdr">HDR</string>
+    <string name="lbl_close">Sluiten</string>
+    <string name="lbl_focus_mode">Focusmodus</string>
+    <string name="lbl_ratio">Verhouding</string>
+    <string name="lbl_quality">Kwaliteit</string>
+    <string name="lbl_take_another">Neem een ​​andere</string>
+    <string name="lbl_photo_crop">Foto bijsnijden</string>
+    <string name="lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">Origineel</string>
+    <string name="magic_color">Magische kleur</string>
+    <string name="gray_mode">Grijze modus</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name="single_mode">Enkele modus</string>
+    <string name="batch_mode">Batch-modus</string>
+    <string name="hello_blank_fragment">Hallo leeg fragment</string>
+
+    <string name="import_from_gallery">Importeren uit galerij</string>
+    <string name="rate_us">Beoordeel ons</string>
+    <string name="enter_name">Voer naam in…</string>
+    <string name="generate_pdf">PDF genereren</string>
+    <string name="share_pdf">PDF delen</string>
+    <string name="share_pdf_ocr">PDF delen (OCR)</string>
+    <string name="share_images">Afbeeldingen delen</string>
+    <string name="love_our_document_scanner">Ben je dol op deze documentscanner?</string>
+
+    <string name="upgrade_pro_message">Overweeg om jezelf te upgraden naar PRO</string>
+
+    <string name="lifetime">Levensduur</string>
+    <string name="yearly">Jaarlijks</string>
+    <string name="monthly">Maandelijks</string>
+    <string name="downloading">Bezig met downloaden…</string>
+
+    <!-- Tesseract -->
+    <string name="downloading_language">Taalgegevens downloaden…</string>
+    <string name="percentage_downloaded">% van totaal:</string>
+    <string name="you_are_not_connected_to_internet">Je bent niet verbonden met internet</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="download_description">Voor een goede werking van de OCR-functionaliteit moeten enkele aanvullende gegevens naar uw apparaat worden gedownload.\nWilt u de geselecteerde taalgegevens (%s) downloaden? Je kunt meer talen downloaden via app-instellingen</string>
+    <string name="training_data_missing">Taalgegevens ontbreken!</string>
+    <string name="select_language">Taal selecteren</string>
+    <string name="create_new">Nieuw maken</string>
+    <string name="documents_list_empty">Je documentenlijst is leeg</string>
+    <string name="no_notes_exists">Er zijn geen notities!</string>
+    <string name="backup_now">Nu een back-up maken</string>
+    <string name="restore_backup">Back-up terugzetten</string>
+    <string name="backup_message_sync">Maak eenvoudig een back-up van uw gescande documenten op Google Drive met naadloze synchronisatie</string>
+    <string name="back">Terug</string>
+    <string name="ocr">OCR</string>
+    <string name="image">Afbeelding</string>
+    <string name="select_from_gallery">Selecteer uit galerij</string>
+    <string name="open_camera">Camera openen</string>
+    <string name="start_sync">Synchronisatie starten</string>
+    <string name="document_1">Document 1</string>
+    <string name="rate_us_txt">Vergeet niet om ons te beoordelen.</string>
+
+    <string name="rate_us_desc">Druk op JA om te beoordelen of NEE om af te sluiten</string>
+    <string name="pro_member_message">Je bent een PRO-lid!</string>
+    <string name="req_cam_access_message">Scanne vereist toegang tot camera</string>
+    <string name="req_storage_access_message">Scanne vereist toegang tot opslag</string>
+    <string name="req_media_access_message">Scanne vereist toegang tot media</string>
+    <string name="req_storage_cam_access_message">Scanne heeft opslag- en camerarechten nodig om te werken</string>
+    <string name="watch_ads_message">Je moet de videoadvertentie bekijken om door te gaan</string>
+
+    <string name="premium_feature">Premium functie</string>
+    <string name="upgrade_pro_prompt">Upgrade naar PRO</string>
+    <string name="please_wait">Even geduld…</string>
+    <string name="created_success_accuracy">Succesvol gemaakt met nauwkeurigheid: %s</string>
+    <string name="error_occurred">Er is een fout opgetreden</string>
+    <string name="already_logged_message">Al ingelogd als %s</string>
+    <string name="scan_count">%s scannen</string>
+    <string name="docs_count">%s documenten</string>
+    <string name="delete_alert_title">Document verwijderen</string>
+    <string name="delete_alert_message">Weet je zeker dat je wilt verwijderen?</string>
+    <string name="rename_doc">Document hernoemen</string>
+
+    <string name="enter_valid_name">Voer een geldige naam in</string>
+    <string name="starting_sync">Synchronisatie starten</string>
+    <string name="error">Fout</string>
+    <string name="sync_error">Er is een fout opgetreden tijdens het synchroniseren van bestanden met Google Drive</string>
+    <string name="success">Succes</string>
+    <string name="sync_success">Het synchroniseren van bestanden met Google Drive is gelukt</string>
+    <string name="fetching_data">Gegevens ophalen van server</string>
+    <string name="share_notes">Aantekeningen delen…</string>
+
+    <string name="downloading_lang">Talen downloaden</string>
+
+    <string name="total_lang_d_ct">Een totaal van %s talen</string>
+    <string name="download_failed">Download mislukt</string>
+    <string name="download_failed_lang">Kan opgegeven taal niet downloaden: %s</string>
+    <string name="downloaded_num_lang">Gedownloade %s talen</string>
+    <string name="downloading_n">%s downloaden</string>
+    <string name="creating_pdf">Een prachtige PDF voor je koken</string>
+
+    <string name="logged_out_message">Je bent uitgelogd</string>
+    <string name="lang_downloaded">Talen succesvol gedownload</string>
+    <string name="languages">Talen</string>
+    <string name="get_langs">Krijg meer talen</string>
+    <string name="look_n_feel">Look en voel</string>
+    <string name="theme">Thema</string>
+    <string name="theme_desc">Schakelen tussen donkere en lichte modus</string>
+    <string name="more">Meer</string>
+    <string name="about_us">Over ons</string>
+    <string name="about_us_desc">Meer weten over ons</string>
+    <string name="contact_us">Neem contact met ons op</string>
+    <string name="contact_us_desc">Neem contact met ons op voor vragen over betalingen of restituties</string>
+    <string name="leave_feedback">Laat een feedback achter</string>
+    <string name="leave_feedback_desc">Technische problemen melden of nieuwe functies voorstellen</string>
+    <string name="rotation">Rotatie</string>
+    <string name="opacity">Dekking</string>
+    <string name="brush">Borstel</string>
+    <string name="label_brush">Borstel</string>
+
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Sticker</string>
+    <string name="label_eraser">Gum</string>
+    <string name="label_eraser_mode">Gummodus</string>
+    <string name="label_text">Tekst</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Aanpassen</string>
+    <string name="msg_save_image">Afsluiten zonder de afbeelding op te slaan?</string>
+    <string name="msg_save_image_to_share">Sla de afbeelding op om te delen</string>
+    <string name="msg_share_image">Afbeelding delen</string>
+    <string name="save">Opslaan</string>
+
+    <string name="dontsave">Niet opslaan</string>
+    <string name="no_signature_msg">Je hebt geen handtekeningen. Tik om er een toe te voegen</string>
+
+    <string name="sign">Teken</string>
+
+    <string name="crop_image_menu_rotate_right">Rechts</string>
+    <string name="crop_image_menu_rotate_left">Links</string>
+</resources>

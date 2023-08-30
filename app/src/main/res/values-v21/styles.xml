@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AlertDialog" parent="Theme.MaterialComponents.DayNight.Dialog.Bridge">
+        <item name="android:textColor">@color/alert_txt_color</item>
+        <item name="android:textColorPrimary">#595959</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

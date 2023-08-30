@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/import_gallery"
+        android:title="@string/import_from_gallery"
+        android:onClick="onImportGalleryClicked"/>
+
+    <item
+        android:id="@+id/rate_us"
+        android:title="@string/rate_us"
+        android:onClick="onRateUsClicked" />
+
+
+    <item
+        android:id="@+id/cloud"
+        android:title="Cloud"
+        android:icon="@drawable/ic_baseline_cloud_24"
+        app:showAsAction="always"
+        android:visible="true"
+        android:onClick="onCloud"/>
+
+    <item
+        android:id="@+id/upgrade_pro"
+        android:title="Upgrade"
+        android:icon="@drawable/ic_crowns"
+        app:showAsAction="always"
+        android:onClick="onUpgrade"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/action_settings"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:onClick="onSettingsClicked" />
+
+</menu>

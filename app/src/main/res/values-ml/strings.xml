@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_string_apply">പ്രയോഗിക്കുക</string>
+
+    <string name="lbl_cancel">റദ്ദാക്കുക</string>
+    <string name="lbl_delete">ഇല്ലാതാക്കുക</string>
+    <string name="lbl_left">ഇടത്</string>
+    <string name="lbl_right">വലത്</string>
+    <string name="lbl_crop">ക്രോപ്പ് ചെയ്യുക</string>
+    <string name="lbl_camera_unavailable">ക്യാമറ ലഭ്യമല്ല (ഉപയോഗത്തിലാണ് അല്ലെങ്കിൽ നിലവിലില്ല).\nക്യാമറ ഉപയോഗിച്ചേക്കാവുന്ന ആപ്പുകൾ അടയ്ക്കുക.</string>
+    <string name="lbl_zoom_ratio_value">സൂം: %1.2fx</string>
+    <string name="lbl_open_photo_preview">ഷോട്ടിന് ശേഷം പ്രിവ്യൂ ഫോട്ടോ തുറക്കുക</string>
+    <string name="lbl_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="lbl_hdr">HDR</string>
+    <string name="lbl_close">അടയ്ക്കുക</string>
+    <string name="lbl_focus_mode">ഫോക്കസ് മോഡ്</string>
+    <string name="lbl_ratio">അനുപാതം</string>
+    <string name="lbl_quality">ഗുണനിലവാരം</string>
+    <string name="lbl_take_another">മറ്റൊന്ന് എടുക്കുക</string>
+    <string name="lbl_photo_crop">ഫോട്ടോ ക്രോപ്പ് ചെയ്യുക</string>
+    <string name="lbl_photo_preview">lbl_photo_preview</string>
+    <string name="original">ഒറിജിനൽ</string>
+    <string name="magic_color">മാജിക് കളർ</string>
+    <string name="gray_mode">ഗ്രേ മോഡ്</string>
+    <string name="b_amp_w"><![CDATA[B&W]]></string>
+    <string name="single_mode">ഒറ്റ മോഡ്</string>
+    <string name="batch_mode">ബാച്ച് മോഡ്</string>
+    <string name="hello_blank_fragment">ഹലോ ശൂന്യ ശകലം</string>
+
+    <string name="import_from_gallery">ഗാലറിയിൽ നിന്ന് ഇറക്കുമതി ചെയ്യുക</string>
+    <string name="rate_us">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
+    <string name="enter_name">പേര് നൽകുക…</string>
+    <string name="generate_pdf">PDF സൃഷ്‌ടിക്കുക</string>
+    <string name="share_pdf">PDF പങ്കിടുക</string>
+    <string name="share_pdf_ocr">PDF (OCR) പങ്കിടുക</string>
+    <string name="share_images">ചിത്രങ്ങൾ പങ്കിടുക</string>
+    <string name="love_our_document_scanner">ഈ ഡോക്യുമെന്റ് സ്കാനർ ഇഷ്ടമാണോ?</string>
+
+    <string name="upgrade_pro_message">PRO-ലേക്ക് സ്വയം അപ്‌ഗ്രേഡ് ചെയ്യുന്നത് പരിഗണിക്കുക</string>
+
+    <string name="lifetime">ജീവിതകാലം</string>
+    <string name="yearly">വാർഷികം</string>
+    <string name="monthly">പ്രതിമാസ</string>
+    <string name="downloading">ഡൗൺലോഡ് ചെയ്യുന്നു…</string>
+
+    <!-- Tesseract -->
+    <string name="downloading_language">ഭാഷാ ഡാറ്റ ഡൗൺലോഡ് ചെയ്യുന്നു…</string>
+    <string name="percentage_downloaded">മൊത്തത്തിന്റെ%:</string>
+    <string name="you_are_not_connected_to_internet">നിങ്ങൾ ഇന്റർനെറ്റിലേക്ക് കണക്റ്റുചെയ്‌തിട്ടില്ല</string>
+    <string name="yes">അതെ</string>
+    <string name="no">ഇല്ല</string>
+    <string name="download_description">OCR പ്രവർത്തനത്തിന്റെ ശരിയായ പ്രവർത്തനത്തിന്, നിങ്ങളുടെ ഉപകരണത്തിലേക്ക് കുറച്ച് അധിക ഡാറ്റ ഡൗൺലോഡ് ചെയ്യേണ്ടതുണ്ട്.\nതിരഞ്ഞെടുത്ത ഭാഷ(%s) ഡാറ്റ ഡൗൺലോഡ് ചെയ്യണോ? നിങ്ങൾക്ക് ആപ്പ് ക്രമീകരണങ്ങളിൽ നിന്ന് കൂടുതൽ ഭാഷകൾ ഡൗൺലോഡ് ചെയ്യാം</string>
+    <string name="training_data_missing">ഭാഷാ ഡാറ്റ കാണുന്നില്ല!</string>
+    <string name="select_language">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="create_new">പുതിയത് സൃഷ്‌ടിക്കുക</string>
+    <string name="documents_list_empty">നിങ്ങളുടെ പ്രമാണങ്ങളുടെ ലിസ്റ്റ് ശൂന്യമാണ്</string>
+    <string name="no_notes_exists">കുറിപ്പുകളൊന്നും നിലവിലില്ല!</string>
+    <string name="backup_now">ഇപ്പോൾ ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="restore_backup">ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
+    <string name="backup_message_sync">നിങ്ങളുടെ സ്കാൻ ചെയ്ത പ്രമാണങ്ങൾ തടസ്സമില്ലാത്ത സമന്വയം ഉപയോഗിച്ച് Google ഡ്രൈവിൽ എളുപ്പത്തിൽ ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="back">പിന്നിലേക്ക്</string>
+    <string name="ocr">OCR</string>
+    <string name="image">ചിത്രം</string>
+    <string name="select_from_gallery">ഗാലറിയിൽ നിന്ന് തിരഞ്ഞെടുക്കുക</string>
+    <string name="open_camera">ക്യാമറ തുറക്കുക</string>
+    <string name="start_sync">സമന്വയം ആരംഭിക്കുക</string>
+    <string name="document_1">പ്രമാണം 1</string>
+    <string name="rate_us_txt">ഞങ്ങളെ റേറ്റുചെയ്യാൻ മറക്കരുത്.</string>
+
+    <string name="rate_us_desc">റേറ്റുചെയ്യാൻ YES അല്ലെങ്കിൽ പുറത്തുകടക്കാൻ NO അമർത്തുക</string>
+    <string name="pro_member_message">നിങ്ങൾ ഒരു PRO അംഗമാണ്!</string>
+    <string name="req_cam_access_message">സ്‌കാൻ ചെയ്യുന്നതിന് ക്യാമറയിലേക്കുള്ള ആക്‌സസ് ആവശ്യമാണ്</string>
+    <string name="req_storage_access_message">സ്‌കാൻ ചെയ്യുന്നതിന് സ്റ്റോറേജിലേക്കുള്ള ആക്‌സസ് ആവശ്യമാണ്</string>
+    <string name="req_media_access_message">സ്‌കാൻ ചെയ്യുന്നതിന് മീഡിയയിലേക്കുള്ള ആക്‌സസ് ആവശ്യമാണ്</string>
+    <string name="req_storage_cam_access_message">സ്‌കാനിന് പ്രവർത്തിക്കാൻ സ്റ്റോറേജ്, ക്യാമറ അനുമതികൾ ആവശ്യമാണ്</string>
+    <string name="watch_ads_message">നീങ്ങാൻ വീഡിയോ പരസ്യം കാണേണ്ടതുണ്ട്</string>
+
+    <string name="premium_feature">പ്രീമിയം ഫീച്ചർ</string>
+    <string name="upgrade_pro_prompt">PRO ലേക്ക് അപ്‌ഗ്രേഡുചെയ്യുക</string>
+    <string name="please_wait">ദയവായി കാത്തിരിക്കൂ…</string>
+    <string name="created_success_accuracy">കൃത്യതയോടെ വിജയകരമായി സൃഷ്‌ടിച്ചു: %s</string>
+    <string name="error_occurred">ഒരു പിശക് സംഭവിച്ചു</string>
+    <string name="already_logged_message">ഇതിനകം %s ആയി ലോഗിൻ ചെയ്തിട്ടുണ്ട്</string>
+    <string name="scan_count">%s സ്കാൻ ചെയ്യുക</string>
+    <string name="docs_count">%s പ്രമാണങ്ങൾ</string>
+    <string name="delete_alert_title">പ്രമാണം ഇല്ലാതാക്കുക</string>
+    <string name="delete_alert_message">നിങ്ങൾ ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?</string>
+    <string name="rename_doc">പ്രമാണത്തിന്റെ പേരുമാറ്റുക</string>
+
+    <string name="enter_valid_name">ദയവായി ഒരു സാധുവായ പേര് നൽകുക</string>
+    <string name="starting_sync">സിൻക്രൊണൈസേഷൻ ആരംഭിക്കുന്നു</string>
+    <string name="error">പിശക്</string>
+    <string name="sync_error">Google ഡ്രൈവുമായി ഫയലുകൾ സമന്വയിപ്പിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു</string>
+    <string name="success">വിജയം</string>
+    <string name="sync_success">Google ഡ്രൈവുമായി ഫയലുകൾ സമന്വയിപ്പിക്കുന്നത് വിജയിച്ചു</string>
+    <string name="fetching_data">സെർവറിൽ നിന്ന് ഡാറ്റ ലഭ്യമാക്കുന്നു</string>
+    <string name="share_notes">കുറിപ്പുകൾ പങ്കിടുക…</string>
+
+    <string name="downloading_lang">ഭാഷകൾ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+
+    <string name="total_lang_d_ct">ആകെ %s ഭാഷകൾ</string>
+    <string name="download_failed">ഡൗൺലോഡ് പരാജയപ്പെട്ടു</string>
+    <string name="download_failed_lang">നൽകിയ ഭാഷ ഡൗൺലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു: %s</string>
+    <string name="downloaded_num_lang">ഡൗൺലോഡ് ചെയ്ത %s ഭാഷകൾ</string>
+    <string name="downloading_n">%s ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="creating_pdf">നിങ്ങൾക്കായി മനോഹരമായ ഒരു PDF പാചകം ചെയ്യുന്നു</string>
+
+    <string name="logged_out_message">നിങ്ങൾ ലോഗ് ഔട്ട് ചെയ്‌തു</string>
+    <string name="lang_downloaded">ഭാഷകൾ വിജയകരമായി ഡൗൺലോഡ് ചെയ്തു</string>
+    <string name="languages">ഭാഷകൾ</string>
+    <string name="get_langs">കൂടുതൽ ഭാഷകൾ നേടുക</string>
+    <string name="look_n_feel">നോക്കൂ, അനുഭവിക്കൂ</string>
+    <string name="theme">തീം</string>
+    <string name="theme_desc">ഡാർക്ക്, ലൈറ്റ് മോഡുകൾക്കിടയിൽ മാറുക</string>
+    <string name="more">കൂടുതൽ</string>
+    <string name="about_us">ഞങ്ങളെക്കുറിച്ച്</string>
+    <string name="about_us_desc">ഞങ്ങളെക്കുറിച്ച് കൂടുതലറിയുക</string>
+    <string name="contact_us">ഞങ്ങളെ ബന്ധപ്പെടുക</string>
+    <string name="contact_us_desc">ഏതെങ്കിലും പേയ്‌മെന്റ് അല്ലെങ്കിൽ റീഫണ്ടുമായി ബന്ധപ്പെട്ട ചോദ്യങ്ങൾക്ക് ഞങ്ങളെ ബന്ധപ്പെടുക</string>
+    <string name="leave_feedback">ഒരു ഫീഡ്‌ബാക്ക് നൽകുക</string>
+    <string name="leave_feedback_desc">സാങ്കേതിക പ്രശ്നങ്ങൾ റിപ്പോർട്ടുചെയ്യുക അല്ലെങ്കിൽ പുതിയ സവിശേഷതകൾ നിർദ്ദേശിക്കുക</string>
+    <string name="rotation">ഭ്രമണം</string>
+    <string name="opacity">ഒപാസിറ്റി</string>
+    <string name="brush">ബ്രഷ്</string>
+    <string name="label_brush">ബ്രഷ്</string>
+
+    <string name="label_emoji">ഇമോജി</string>
+    <string name="label_sticker">സ്റ്റിക്കർ</string>
+    <string name="label_eraser">ഇറേസർ</string>
+    <string name="label_eraser_mode">ഇറേസർ മോഡ്</string>
+    <string name="label_text">ടെക്‌സ്റ്റ്</string>
+    <string name="label_filter">ഫിൽട്ടർ</string>
+    <string name="label_adjust">ക്രമീകരിക്കുക</string>
+    <string name="msg_save_image">ചിത്രം സംരക്ഷിക്കാതെ പുറത്തുകടക്കണോ?</string>
+    <string name="msg_save_image_to_share">പങ്കിടാൻ ചിത്രം സംരക്ഷിക്കുക</string>
+    <string name="msg_share_image">ചിത്രം പങ്കിടുക</string>
+    <string name="save">സംരക്ഷിക്കുക</string>
+
+    <string name="dontsave">സംരക്ഷിക്കരുത്</string>
+    <string name="no_signature_msg">നിങ്ങൾക്ക് ഒപ്പുകളൊന്നുമില്ല. ഒന്ന് ചേർക്കാൻ ടാപ്പ് ചെയ്യുക</string>
+
+    <string name="sign">അടയാളം</string>
+
+    <string name="crop_image_menu_rotate_right">വലത്</string>
+    <string name="crop_image_menu_rotate_left">ഇടത്</string>
+</resources>
