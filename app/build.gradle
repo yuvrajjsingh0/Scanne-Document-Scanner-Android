@@ -21,7 +21,7 @@ android {
         config {
             keyAlias 'key0'
             keyPassword 'chamcham'
-            storeFile file('C:\\Users\\ASUS\\Documents\\Downloads\\tapscanner.jks')
+            storeFile file('D:\\old-laptop-backup\\Backup\\Downloads\\tapscanner.jks')
             storePassword 'chamcham'
         }
     }
@@ -134,8 +134,10 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-runtime:$lifecycle_version"
     annotationProcessor "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
 
-    implementation 'com.camerakit:camerakit:1.0.0-beta3.11'
-    implementation 'com.camerakit:jpegkit:0.1.0'
+    //implementation 'com.camerakit:camerakit:1.0.0-beta3.11'
+    implementation 'com.github.CameraKit:camerakit-android:v1.0.0-beta3.11'
+    implementation 'com.github.CameraKit:jpegkit-android:v0.2.2'
+    //implementation 'com.camerakit:jpegkit:0.1.0'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.21'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1'
     implementation 'com.github.SanojPunchihewa:InAppUpdater:1.0.5'
@@ -152,4 +154,6 @@ dependencies {
     //implementation 'com.github.iamutkarshtiwari:Ananas:1.2.3'
 
     //implementation 'com.burhanrashid52:photoeditor:1.1.4'
+
+    implementation 'androidx.work:work-runtime-ktx:2.7.1'
 }

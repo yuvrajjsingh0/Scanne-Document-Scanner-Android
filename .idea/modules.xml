@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Document-Scanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Document-Scanner-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Document-Scanner-master.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Document-Scanner-master.imagestopdf.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Document-Scanner-master.scanlibrary.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Document-Scanner-master.tesseract.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scanne-Document-Scanner-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Scanne-Document-Scanner-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Scanne-Document-Scanner-Android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagestopdf/Scanne-Document-Scanner-Android.imagestopdf.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/scanlibrary/Scanne-Document-Scanner-Android.scanlibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tesseract/Scanne-Document-Scanner-Android.tesseract.unitTest.iml" />
     </modules>
   </component>
 </project>

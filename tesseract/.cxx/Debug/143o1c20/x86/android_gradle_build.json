@@ -1,0 +1,92 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\src\\main\\cpp\\libpng\\CMakeLists.txt",
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\src\\main\\cpp\\libjpeg\\CMakeLists.txt",
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\src\\main\\cpp\\leptonica\\CMakeLists.txt",
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\src\\main\\cpp\\tesseract\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "leptonica-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+        "leptonica"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "leptonica",
+      "output": "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libleptonica.so",
+      "runtimeFiles": [
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libjpeg.so",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libpng.so"
+      ]
+    },
+    "png-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+        "png"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "png",
+      "output": "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libpng.so",
+      "runtimeFiles": []
+    },
+    "jpeg-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+        "jpeg"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "jpeg",
+      "output": "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libjpeg.so",
+      "runtimeFiles": []
+    },
+    "tesseract-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\yuvra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\.cxx\\Debug\\143o1c20\\x86",
+        "tesseract"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "tesseract",
+      "output": "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libtesseract.so",
+      "runtimeFiles": [
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libleptonica.so",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libjpeg.so",
+        "C:\\Users\\yuvra\\StudioProjects\\Scanne-Document-Scanner-Android\\tesseract\\build\\intermediates\\cxx\\Debug\\143o1c20\\obj\\x86\\libpng.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -19,8 +19,8 @@ public class Utils {
     private static final String IMAGE_TO_PDF_MODULE = "IMAGE_TO_PDF_MODULE";
 
     public static final String PDFS_PATH = App.context.getExternalFilesDir(null).getPath() + File.separator + ".DocScanner" + File.separator + "PDFs";
+    //public static final String PDF_OCR_PATH = App.context.getExternalFilesDir(null).getPath() + File.separator + ".DocScanner" + File.separator + "PDF_OCR";
     public static final String PDF_OCR_PATH = App.context.getExternalFilesDir(null).getPath() + File.separator + ".DocScanner" + File.separator + "PDF_OCR";
-
     public static File getOutputMediaFile(String path, String name) {
         // To be safe, we should check that the SDCard is mounted
         if (!Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)) {

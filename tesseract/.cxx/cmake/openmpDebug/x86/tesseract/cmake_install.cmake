@@ -1,4 +1,4 @@
-# Install script for directory: D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp/tesseract
+# Install script for directory: C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/src/main/cpp/tesseract
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

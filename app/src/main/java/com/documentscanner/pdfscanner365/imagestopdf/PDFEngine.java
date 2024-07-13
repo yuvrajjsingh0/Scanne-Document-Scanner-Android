@@ -57,7 +57,9 @@ public class PDFEngine {
         if(pdfFile.exists()) {
             intentShareFile.setType("application/pdf");
             intentShareFile.putExtra(Intent.EXTRA_TEXT, "Check out our app: https://bit.ly/2Tp53zi");
-            intentShareFile.putExtra(Intent.EXTRA_STREAM, Uri.parse(pdfFile.getPath()));
+            //intentShareFile.putExtra(Intent.EXTRA_STREAM, Uri.parse(pdfFile.getPath()));
+            intentShareFile.putExtra(Intent.EXTRA_STREAM, FileProvider.getUriForFile(context, context.getApplicationContext().getPackageName() + ".provider", pdfFile));
+            intentShareFile.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
             intentShareFile.putExtra(Intent.EXTRA_SUBJECT, "Shared via " + context.getString(R.string.app_name));
 
             context.startActivity(Intent.createChooser(intentShareFile, context.getString(R.string.share_pdf)));
