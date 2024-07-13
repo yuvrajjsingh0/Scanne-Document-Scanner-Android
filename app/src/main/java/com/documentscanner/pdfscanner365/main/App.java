@@ -7,10 +7,13 @@ import com.google.android.gms.ads.MobileAds;
 import com.raizlabs.android.dbflow.config.FlowConfig;
 import com.raizlabs.android.dbflow.config.FlowManager;
 import com.revenuecat.purchases.EntitlementInfo;
-import com.revenuecat.purchases.PurchaserInfo;
+//import com.revenuecat.purchases.PurchaserInfo;
+import com.revenuecat.purchases.CustomerInfo;
 import com.revenuecat.purchases.Purchases;
+import com.revenuecat.purchases.PurchasesConfiguration;
 import com.revenuecat.purchases.PurchasesError;
-import com.revenuecat.purchases.interfaces.ReceivePurchaserInfoListener;
+//import com.revenuecat.purchases.interfaces.ReceivePurchaserInfoListener;
+import com.revenuecat.purchases.interfaces.ReceiveCustomerInfoCallback;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ProcessLifecycleOwner;
@@ -35,7 +38,8 @@ public class App extends MultiDexApplication {
         sPhotoApp = this;
 
         Purchases.setDebugLogsEnabled(true);
-        Purchases.configure(this, getString(R.string.revenue_cat_sdk_key));
+        //Purchases.configure(this, getString(R.string.revenue_cat_sdk_key));
+        Purchases.configure(new PurchasesConfiguration(new PurchasesConfiguration.Builder(this, getString(R.string.revenue_cat_sdk_key))));
 
         if(getSharedPreferences(getPackageName(), MODE_PRIVATE).getBoolean("pro", false)){
             isAds = false;
@@ -44,9 +48,24 @@ public class App extends MultiDexApplication {
             }
         }
 
-        Purchases.getSharedInstance().restorePurchases(new ReceivePurchaserInfoListener() {
+//        Purchases.getSharedInstance().restorePurchases(new ReceivePurchaserInfoListener() {
+//            @Override
+//            public void onReceived(@NonNull PurchaserInfo purchaserInfo) {
+//                checkForProEntitlement(purchaserInfo);
+//            }
+//
+//            @Override
+//            public void onError(@NonNull PurchasesError error) {
+//                Timber.e(error.getMessage());
+//                Timber.i("Subscription is invalid");
+//                isAds = true;
+//                getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", false).apply();
+//            }
+//        });
+
+        Purchases.getSharedInstance().restorePurchases(new ReceiveCustomerInfoCallback() {
             @Override
-            public void onReceived(@NonNull PurchaserInfo purchaserInfo) {
+            public void onReceived(@NonNull CustomerInfo purchaserInfo) {
                 checkForProEntitlement(purchaserInfo);
             }
 
@@ -55,7 +74,7 @@ public class App extends MultiDexApplication {
                 Timber.e(error.getMessage());
                 Timber.i("Subscription is invalid");
                 isAds = true;
-                getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", false).apply();
+                //getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", false).apply();
             }
         });
 
@@ -68,9 +87,27 @@ public class App extends MultiDexApplication {
 
         context = getApplicationContext();
 
+        getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", true).apply();
+
     }
 
-    public void checkForProEntitlement(PurchaserInfo purchaserInfo) {
+//    public void checkForProEntitlement(PurchaserInfo purchaserInfo) {
+//        EntitlementInfo proEntitlement = purchaserInfo.getEntitlements().get("PRO");
+//        if (proEntitlement != null && proEntitlement.isActive()) {
+//            Timber.i("Subscription is valid");
+//            App.isAds = false;
+//            if(appOpenManager != null){
+//                ProcessLifecycleOwner.get().getLifecycle().removeObserver(appOpenManager);
+//            }
+//            getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", true).apply();
+//        }else{
+//            Timber.i("Subscription is invalid");
+//            isAds = true;
+//            getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", false).apply();
+//        }
+//    }
+
+    public void checkForProEntitlement(CustomerInfo purchaserInfo) {
         EntitlementInfo proEntitlement = purchaserInfo.getEntitlements().get("PRO");
         if (proEntitlement != null && proEntitlement.isActive()) {
             Timber.i("Subscription is valid");
@@ -84,6 +121,8 @@ public class App extends MultiDexApplication {
             isAds = true;
             getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", false).apply();
         }
+
+        getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", true).apply();
     }
 
     public Context getContext() {

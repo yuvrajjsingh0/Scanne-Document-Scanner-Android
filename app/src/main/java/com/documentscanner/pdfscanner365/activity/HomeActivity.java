@@ -100,6 +100,7 @@ public class HomeActivity extends BaseActivity implements HomeView, ImageSelecto
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+        //getSharedPreferences(getPackageName(), MODE_PRIVATE).edit().putBoolean("pro", true).apply();
         super.onCreate(savedInstanceState);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
@@ -227,20 +228,21 @@ public class HomeActivity extends BaseActivity implements HomeView, ImageSelecto
 
     @Override
     public void onRequestPermissionsResult(int requestCode,String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (requestCode == REQUEST_ID_MULTIPLE_PERMISSIONS) {
             if (ContextCompat.checkSelfPermission(HomeActivity.this,
                     Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
                 Toast.makeText(getApplicationContext(),
-                        getString(R.string.req_cam_access_message), Toast.LENGTH_SHORT)
+                                getString(R.string.req_cam_access_message), Toast.LENGTH_SHORT)
                         .show();
                 //finish();
-            } else if (android.os.Build.VERSION.SDK_INT < android.os.Build.VERSION_CODES.Q && ContextCompat.checkSelfPermission(HomeActivity.this,
+            } else if (Build.VERSION.SDK_INT < Build.VERSION_CODES.Q && ContextCompat.checkSelfPermission(HomeActivity.this,
                     Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
                 Toast.makeText(getApplicationContext(),
                         getString(R.string.req_storage_access_message),
                         Toast.LENGTH_SHORT).show();
                 //finish();
-            } else if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.Q && ContextCompat.checkSelfPermission(HomeActivity.this,
+            } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q && ContextCompat.checkSelfPermission(HomeActivity.this,
                     Manifest.permission.ACCESS_MEDIA_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 Toast.makeText(getApplicationContext(),
                         getString(R.string.req_media_access_message),

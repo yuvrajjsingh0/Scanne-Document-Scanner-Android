@@ -1,4 +1,4 @@
-# Install script for directory: D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/src/main/cpp
+# Install script for directory: C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/libjpeg/cmake_install.cmake")
-  include("D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/libpng/cmake_install.cmake")
-  include("D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/leptonica/cmake_install.cmake")
-  include("D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/tesseract/cmake_install.cmake")
+  include("C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/libjpeg/cmake_install.cmake")
+  include("C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/libpng/cmake_install.cmake")
+  include("C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/leptonica/cmake_install.cmake")
+  include("C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/tesseract/cmake_install.cmake")
 
 endif()
 
@@ -54,5 +54,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Projects/Document-Scanner-master/Document-Scanner-master/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/cmake/openmpDebug/armeabi-v7a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

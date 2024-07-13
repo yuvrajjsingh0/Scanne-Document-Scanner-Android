@@ -1,0 +1,14 @@
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/CMakeFiles/edit_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libjpeg/CMakeFiles/jpeg.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libjpeg/CMakeFiles/edit_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libjpeg/CMakeFiles/rebuild_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libpng/CMakeFiles/png.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libpng/CMakeFiles/edit_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/libpng/CMakeFiles/rebuild_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/leptonica/CMakeFiles/leptonica.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/leptonica/CMakeFiles/edit_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/leptonica/CMakeFiles/rebuild_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/tesseract/CMakeFiles/rebuild_cache.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/tesseract/CMakeFiles/tesseract.dir
+C:/Users/yuvra/StudioProjects/Scanne-Document-Scanner-Android/tesseract/.cxx/Debug/143o1c20/x86/tesseract/CMakeFiles/edit_cache.dir

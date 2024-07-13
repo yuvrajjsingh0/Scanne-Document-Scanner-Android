@@ -21,7 +21,8 @@
         <activity android:name=".activity.UpgradePro" />
         <activity android:name=".activity.SyncActivity" />
         <activity android:name=".activity.OCRActivity" />
-        <activity android:name=".activity.HomeActivity">
+        <activity android:name=".activity.HomeActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

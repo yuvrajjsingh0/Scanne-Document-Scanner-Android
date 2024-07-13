@@ -457,6 +457,7 @@ public class NoteGroupActivity extends BaseActivity implements NotificationObser
     RewardedInterstitialAd mRewardedInterstitialAd;
     @Override
     public void sharePDFOCR(TessLang lang) {
+        App.isAds = false;
         if(!App.isAds){
             shareOCR(lang);
         }else{
